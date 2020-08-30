@@ -69,7 +69,7 @@ var mark = {
             }
 
 
-            // Add result to the corresponing arrays
+            // Add result to the corresponding arrays
             this.tips[i] = bill * percentage;
             this.total[i] = bill + bill * percentage;
         }
@@ -87,6 +87,8 @@ function calcAverage(tips){
 john.calcTips();
 mark.calcTips();
 john.average = calcAverage(john.tips);
+//将计算平均tips的结果存储起来，john的tips存储到john.average这个变量里。
+//括号里为什么是john.tips？因为上面定义的对象中已经是this.tips.
 mark.average = calcAverage(mark.tips);
 
 console.log(john,mark);
