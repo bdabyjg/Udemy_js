@@ -16,16 +16,15 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17cce5bb-c6d6-472e-b5fe-acd8f1f7f70f" name="Default Changelist" comment="" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Scoping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoisting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_Section3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -41,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1gOjBCE8smsbn89wNpvUV6WEKB4" />
+  <component name="ProjectId" id="1goJeuD7zqqFBFIeaeP4udi9C4u" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -50,48 +50,47 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy_js/index.html" useBuiltInWebServerPort="true">
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="17cce5bb-c6d6-472e-b5fe-acd8f1f7f70f" name="Default Changelist" comment="" />
-      <created>1597992398212</created>
+      <changelist id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="" />
+      <created>1598775110052</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597992398212</updated>
-      <workItem from="1597992400312" duration="1853000" />
-      <workItem from="1597994563939" duration="6879000" />
-      <workItem from="1598424925627" duration="75000" />
-      <workItem from="1598425050493" duration="7157000" />
-      <workItem from="1598845516714" duration="80000" />
+      <updated>1598775110052</updated>
+      <workItem from="1598775111239" duration="1178000" />
+      <workItem from="1598791603531" duration="124000" />
+      <workItem from="1598884080215" duration="219000" />
+      <workItem from="1599139067753" duration="2234000" />
     </task>
-    <task id="LOCAL-00001" summary="git add .">
-      <created>1598001860108</created>
+    <task id="LOCAL-00001" summary="add some commenst in exc5">
+      <created>1598779126216</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1598001860108</updated>
+      <updated>1598779126216</updated>
     </task>
-    <task id="LOCAL-00002" summary="git add .">
-      <created>1598433870039</created>
+    <task id="LOCAL-00002" summary=".">
+      <created>1599139130300</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1598433870039</updated>
+      <updated>1599139130300</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -104,19 +103,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -124,23 +111,31 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git commit" />
-    <MESSAGE value="git add ." />
-    <option name="LAST_COMMIT_MESSAGE" value="git add ." />
+    <MESSAGE value="add some commenst in exc5" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="145" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597992457588">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599140333029">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="145" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1597992457588" />
-    <state x="388" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598433881574">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599140333029" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1599139154812">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="388" y="193" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598433881574" />
-    <state x="516" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598845529592">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139154812" />
+    <state x="361" y="218" key="MultipleFileMergeDialog" timestamp="1599139157580">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="516" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1598845529592" />
+    <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598779136790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598779136790" />
+    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599139166332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599139166332" />
+    <state x="545" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1598884086856" />
   </component>
 </project>
