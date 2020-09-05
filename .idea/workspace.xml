@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scoping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoisting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_Section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.Scoping.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoisting.js" beforeDir="false" afterPath="$PROJECT_DIR$/39.Hoisting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scoping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_Section3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_Section3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
@@ -76,7 +78,8 @@
       <workItem from="1598775111239" duration="1178000" />
       <workItem from="1598791603531" duration="124000" />
       <workItem from="1598884080215" duration="219000" />
-      <workItem from="1599139067753" duration="2234000" />
+      <workItem from="1599139067753" duration="2429000" />
+      <workItem from="1599295930531" duration="677000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599139130300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1599144036891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144036891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +126,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599140333029">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599140333029" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599296623319" />
     <state x="144" y="79" key="MergeDialog" timestamp="1599139154812">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -128,10 +139,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598779136790">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599144076016">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598779136790" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599144076015" />
     <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599139166332">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
