@@ -24,7 +24,7 @@ function first(){
 
     function second(){
         var c = "hey";
-        console.log(a+b+c);
+        third();
     }
 }
 function third(){
