@@ -45,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,8 +73,10 @@
       <workItem from="1598775111239" duration="1178000" />
       <workItem from="1598791603531" duration="124000" />
       <workItem from="1598884080215" duration="219000" />
-      <workItem from="1599139067753" duration="2234000" />
-      <workItem from="1599619744923" duration="216000" />
+      <workItem from="1599139067753" duration="2429000" />
+      <workItem from="1599295930531" duration="1246000" />
+      <workItem from="1599376086315" duration="348000" />
+      <workItem from="1599576273267" duration="1554000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -89,7 +92,35 @@
       <option name="project" value="LOCAL" />
       <updated>1599139130300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1599144036891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144036891</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1599298711564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599298711564</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <created>1599299148654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599299148654</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1599579161558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599579161558</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,15 +139,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add some commenst in exc5" />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599140333029">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599140333029" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599296623319" />
     <state x="144" y="79" key="MergeDialog" timestamp="1599139154812">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -125,15 +158,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598779136790">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599579168751">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598779136790" />
-    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599619810901">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599579168751" />
+    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599576860391">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1599619810901" />
-    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599139166332" />
+    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599576860391" />
     <state x="545" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1598884086856" />
   </component>
 </project>
