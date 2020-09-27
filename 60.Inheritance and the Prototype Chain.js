@@ -1,10 +1,9 @@
 
-
-// var john = {
-//     name:'John',
-//     yearOfBirth:1999,
-//     job:'teacher'
-// };
+var john = {
+    name:'John',
+    yearOfBirth:1999,
+    job:'teacher'
+};
 
 //constructor
 var Person = function (name,yearoOfBirth,job){
@@ -28,3 +27,4 @@ john.calculateAge();
 jane.calculateAge();
 
 console.log(john.lastName);
+

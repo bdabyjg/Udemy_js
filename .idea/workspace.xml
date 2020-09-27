@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/60.Inheritance and the Prototype Chain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/60.Inheritance and the Prototype Chain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63.Objcet_create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64.Primitives_Objects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60.Inheritance and the Prototype Chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/60.Inheritance and the Prototype Chain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,8 @@
       <workItem from="1599659319947" duration="1033000" />
       <workItem from="1599743033580" duration="146000" />
       <workItem from="1600157755208" duration="89000" />
-      <workItem from="1601019082473" duration="7549000" />
+      <workItem from="1601019082473" duration="7815000" />
+      <workItem from="1601196513834" duration="3387000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601019496803</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add 60 inheritance">
+      <created>1601028316867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601028316867</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +176,8 @@
     <MESSAGE value="add some commenst in exc5" />
     <MESSAGE value="." />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="add 60 inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 60 inheritance" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
@@ -183,15 +193,19 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="208" key="Vcs.Push.Dialog.v2" timestamp="1601019682720">
+    <state x="320" y="208" key="Vcs.Push.Dialog.v2" timestamp="1601028329335">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599579168751" />
-    <state x="320" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601019682720" />
+    <state x="320" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601028329335" />
     <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599743100950">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599743100950" />
     <state x="545" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1598884086856" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601204448757">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601204448757" />
   </component>
 </project>
