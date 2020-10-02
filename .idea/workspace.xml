@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/65.First Class Functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/65.First_Class_Funtions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/65.First Class Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/65.First_Class_Functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,8 @@
       <workItem from="1600157755208" duration="89000" />
       <workItem from="1601019082473" duration="7815000" />
       <workItem from="1601196513834" duration="3431000" />
-      <workItem from="1601638276695" duration="1745000" />
+      <workItem from="1601638276695" duration="1798000" />
+      <workItem from="1601646123005" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601205391692</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="65">
+      <created>1601640930955</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601640930955</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +192,8 @@
     <MESSAGE value="." />
     <MESSAGE value="add 60 inheritance" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="65" />
+    <option name="LAST_COMMIT_MESSAGE" value="65" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
@@ -199,10 +209,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="208" key="Vcs.Push.Dialog.v2" timestamp="1601205399226">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601640938695">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599579168751" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601640938695" />
     <state x="320" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601205399226" />
     <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599743100950">
       <screen x="0" y="0" width="1440" height="900" />
