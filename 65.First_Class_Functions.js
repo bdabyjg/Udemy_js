@@ -28,7 +28,7 @@ function maxHeartRate(el){
 
 }
 
-var ages = arrayCal(years,calculateAge);  // 为什么calculateAge后面没有括号？因为加了括号意味着这个方法就call了，实际上这里需要的是先做完arraycal才call calculateAge。
+var ages = arrayCal(years,calculateAge);  // 为什么calculateAge后面没有括号？因为加了括号意味着这个方法就call了，实际上这里需要的是先执行arraycal才执行 calculateAge。
 
 var fullAges = arrayCal(ages, isFullAge);
 
