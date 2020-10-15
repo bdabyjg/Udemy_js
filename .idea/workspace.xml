@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/65.Passing_functions_as_argument.md" beforeDir="false" afterPath="$PROJECT_DIR$/65.Passing_functions_as_argument.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.Closures.md" beforeDir="false" afterPath="$PROJECT_DIR$/68.Closures.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,8 @@
       <workItem from="1602585465567" duration="102000" />
       <workItem from="1602595080164" duration="208000" />
       <workItem from="1602755748906" duration="1583000" />
-      <workItem from="1602763838585" duration="1729000" />
+      <workItem from="1602763838585" duration="2699000" />
+      <workItem from="1602768490906" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602758266872</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=".">
+      <created>1602767533237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602767533237</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,13 +223,13 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add some commenst in exc5" />
-    <MESSAGE value="." />
     <MESSAGE value="add 60 inheritance" />
     <MESSAGE value=".." />
     <MESSAGE value="65" />
     <MESSAGE value="66-68" />
     <MESSAGE value="change 65" />
-    <option name="LAST_COMMIT_MESSAGE" value="change 65" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
@@ -237,10 +245,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602758277737">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602767591256">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602758277737" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602767591256" />
     <state x="320" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601650584696" />
     <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599743100950">
       <screen x="0" y="0" width="1440" height="900" />
