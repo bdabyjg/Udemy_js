@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/69.Bindcall_and_apply.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/68.Closures.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/68.Closures.md" beforeDir="false" afterPath="$PROJECT_DIR$/68.Closures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_Section3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_Section3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy_js/index.html" useBuiltInWebServerPort="true">
+    <configuration name="69.Bindcall_and_apply.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/69.Bindcall_and_apply.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.grunt">
@@ -69,7 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.69.Bindcall_and_apply.js" />
       </list>
     </recent_temporary>
   </component>
@@ -88,21 +91,10 @@
       <workItem from="1599295930531" duration="1246000" />
       <workItem from="1599376086315" duration="348000" />
       <workItem from="1599576273267" duration="1554000" />
-      <workItem from="1599659319947" duration="1033000" />
-      <workItem from="1599743033580" duration="146000" />
-      <workItem from="1600157755208" duration="89000" />
-      <workItem from="1601019082473" duration="7815000" />
-      <workItem from="1601196513834" duration="3431000" />
-      <workItem from="1601638276695" duration="1798000" />
-      <workItem from="1601646123005" duration="2865000" />
-      <workItem from="1602056423467" duration="491000" />
-      <workItem from="1602316856216" duration="88000" />
-      <workItem from="1602317172288" duration="2962000" />
-      <workItem from="1602585465567" duration="102000" />
-      <workItem from="1602595080164" duration="208000" />
-      <workItem from="1602755748906" duration="1583000" />
-      <workItem from="1602763838585" duration="2699000" />
-      <workItem from="1602768490906" duration="128000" />
+      <workItem from="1599701177802" duration="162000" />
+      <workItem from="1606583514146" duration="42000" />
+      <workItem from="1606583613479" duration="10000" />
+      <workItem from="1606615268312" duration="7961000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -146,63 +138,7 @@
       <option name="project" value="LOCAL" />
       <updated>1599579161558</updated>
     </task>
-    <task id="LOCAL-00007" summary="..">
-      <created>1601019496803</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1601019496803</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add 60 inheritance">
-      <created>1601028316867</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1601028316867</updated>
-    </task>
-    <task id="LOCAL-00009" summary="..">
-      <created>1601205391692</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1601205391692</updated>
-    </task>
-    <task id="LOCAL-00010" summary="65">
-      <created>1601640930955</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1601640930955</updated>
-    </task>
-    <task id="LOCAL-00011" summary="65">
-      <created>1601650569094</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1601650569094</updated>
-    </task>
-    <task id="LOCAL-00012" summary="66-68">
-      <created>1602323665035</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1602323665035</updated>
-    </task>
-    <task id="LOCAL-00013" summary="change 65">
-      <created>1602758266872</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1602758266872</updated>
-    </task>
-    <task id="LOCAL-00014" summary=".">
-      <created>1602767533237</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1602767533237</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,41 +159,53 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add some commenst in exc5" />
-    <MESSAGE value="add 60 inheritance" />
-    <MESSAGE value=".." />
-    <MESSAGE value="65" />
-    <MESSAGE value="66-68" />
-    <MESSAGE value="change 65" />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296623319">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="175" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606615655116">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="175" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1606615655116" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599140333029" />
     <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599296623319" />
-    <state x="144" y="79" key="MergeDialog" timestamp="1599743092504">
+    <state width="1348" height="227" key="GridCell.Tab.0.bottom" timestamp="1606623271615">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1606623271615" />
+    <state width="1348" height="227" key="GridCell.Tab.0.center" timestamp="1606623271614">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1606623271614" />
+    <state width="1348" height="227" key="GridCell.Tab.0.left" timestamp="1606623271613">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1606623271613" />
+    <state width="1348" height="227" key="GridCell.Tab.0.right" timestamp="1606623271614">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1606623271614" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1599139154812">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599743092504" />
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139154812" />
     <state x="361" y="218" key="MultipleFileMergeDialog" timestamp="1599139157580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602767591256">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599579168751">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602767591256" />
-    <state x="320" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601650584696" />
-    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599743100950">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599579168751" />
+    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606583534049">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599743100950" />
+    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1606583534049" />
+    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599576860391" />
     <state x="545" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1598884086856" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601204448757">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="343" y="200" key="run.anything.popup" timestamp="1606616540483">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601204448757" />
+    <state x="343" y="200" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1606616540483" />
   </component>
 </project>
