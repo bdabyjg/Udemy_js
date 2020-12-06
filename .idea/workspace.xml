@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37-38. Execution context &amp; Execution Stack.md" beforeDir="false" afterPath="$PROJECT_DIR$/37-38. Execution context &amp; Execution Stack.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <workItem from="1606656259066" duration="3732000" />
       <workItem from="1606660357330" duration="37000" />
       <workItem from="1607255612917" duration="95000" />
-      <workItem from="1607255816142" duration="5174000" />
+      <workItem from="1607255816142" duration="5736000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606660200083</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="expert add">
+      <created>1607266176457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607266176457</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="." />
     <MESSAGE value="add section 5" />
     <MESSAGE value="basic process" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic process" />
+    <MESSAGE value="expert add" />
+    <option name="LAST_COMMIT_MESSAGE" value="expert add" />
   </component>
 </project>
