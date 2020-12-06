@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,19 +64,11 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="69.Bindcall_and_apply.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/69.Bindcall_and_apply.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.69.Bindcall_and_apply.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,7 +89,10 @@
       <workItem from="1606583514146" duration="42000" />
       <workItem from="1606583613479" duration="10000" />
       <workItem from="1606615268312" duration="8321000" />
-      <workItem from="1606656259066" duration="3538000" />
+      <workItem from="1606656259066" duration="3732000" />
+      <workItem from="1606660357330" duration="37000" />
+      <workItem from="1607255612917" duration="95000" />
+      <workItem from="1607255816142" duration="5174000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -149,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606624009669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="basic process">
+      <created>1606660200083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606660200083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,53 +173,7 @@
     <MESSAGE value="add some commenst in exc5" />
     <MESSAGE value="." />
     <MESSAGE value="add section 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add section 5" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="175" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606615655116">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="175" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1606615655116" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599140333029" />
-    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599296623319" />
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom" timestamp="1606624115051">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1606624115051" />
-    <state width="1348" height="227" key="GridCell.Tab.0.center" timestamp="1606624115051">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1606624115051" />
-    <state width="1348" height="227" key="GridCell.Tab.0.left" timestamp="1606624115051">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1606624115051" />
-    <state width="1348" height="227" key="GridCell.Tab.0.right" timestamp="1606624115051">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1606624115051" />
-    <state x="144" y="79" key="MergeDialog" timestamp="1599139154812">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139154812" />
-    <state x="361" y="218" key="MultipleFileMergeDialog" timestamp="1599139157580">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1599139157580" />
-    <state x="304" y="184" key="Vcs.Push.Dialog.v2" timestamp="1606624017908">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="304" y="184" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1606624017908" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599579168751" />
-    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606583534049">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="518" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1606583534049" />
-    <state x="545" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599576860391" />
-    <state x="545" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1598884086856" />
-    <state x="343" y="200" key="run.anything.popup" timestamp="1606616540483">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="343" y="200" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1606616540483" />
+    <MESSAGE value="basic process" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic process" />
   </component>
 </project>

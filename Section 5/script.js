@@ -21,40 +21,42 @@ c) correct answer (I would use a number for this)
 
 7. Suppose this code would be a plugin for other programmers to use in their code. So make sure that all your code is private and doesn't interfere with the other programmers code (Hint: we learned a special technique to do exactly that).
 */
-(function (){
-function Question(questions, answers, corrects){
-    this.question = questions;
-    this.answer = answers;
-    this.correct = corrects;
-}
+// (function () {
+//     function Question(questions, answers, corrects) {
+//         this.question = questions;
+//         this.answer = answers;
+//         this.correct = corrects;
+//     }
+//
+//     Question.prototype.displayQuestion = function () {
+//         console.log(this.question);
+//         for (var i = 0; i < this.answer.length; i++) {
+//             console.log(i + ' : ' + this.answer[i]);
+//         }
+//     }
+//     Question.prototype.checkAnswer = function (ans) {
+//         if (ans === this.correct) {
+//             console.log('Correct answer!')
+//         } else {
+//             console.log('Wrong answer! Try agian :)')
+//         }
+//
+//     }
+//
+//     var q1 = new Question('Is Javascript hte coolest programming language in the world?', ['Yes', 'No'], 0);
+//     var q2 = new Question('What does Rilakkuma eat?', ['cakes', 'alita', 'wangjun'], 0);
+//     var q3 = new Question('What does kitty eat?', ['poops', 'fish and steaks', 'donuts'], 1);
+//     var q4 = new Question('What does koala eat?', ['poops', 'huachenda', 'kitty'], 2);
+//
+//     var questions = [q1, q2, q3, q4];
+//     var n = Math.floor(Math.random() * questions.length);
+//     questions[n].displayQuestion();
+//     var answer = parseInt(prompt('Please select the correct answer.'));
+//     questions[n].checkAnswer(answer);
+// })();
+//
 
-Question.prototype.displayQuestion=function (){
-    console.log(this.question);
-    for (var i = 0; i < this.answer.length; i++) {
-        console.log(i + ' : ' + this.answer[i]);
-    }
-}
-Question.prototype.checkAnswer = function(ans){
-    if ( ans === this.correct){
-        console.log('Correct answer!')
-    }else {
-        console.log('Wrong answer! Try agian :)')
-    }
 
-}
-
-var q1 = new Question('Is Javascript hte coolest programming language in the world?',['Yes','No'],0);
-var q2 = new Question('What does Rilakkuma eat?',['cakes','alita','wangjun'],0);
-var q3 = new Question('What does kitty eat?',['poops','fish and steaks','donuts'],1);
-var q4 = new Question('What does koala eat?',['poops','huachenda','kitty'],2);
-
-var questions = [q1,q2,q3,q4];
-
-var n = Math.floor(Math.random()*questions.length);
-questions[n].displayQuestion();
-
-var answer = parseInt(prompt('Please select the correct answer'));
-questions[n].checkAnswer(answer);})();
 
 /*
 --- Expert level ---
@@ -67,3 +69,64 @@ questions[n].checkAnswer(answer);})();
 
 11. Display the score in the console. Use yet another method for this.
 */
+(function () {
+    function Question(questions, answers, corrects) {
+        this.question = questions;
+        this.answer = answers;
+        this.correct = corrects;
+    }
+
+    Question.prototype.displayQuestion = function () {
+        console.log(this.question);
+        for (var i = 0; i < this.answer.length; i++) {
+            console.log(i + ' : ' + this.answer[i]);
+        }
+    }
+    Question.prototype.checkAnswer = function (ans,callback) {
+        var sc;
+        if (ans === this.correct) {
+            console.log('Correct answer!');
+            sc = callback(true);
+        } else {
+            console.log('Wrong answer! Try agian :)');
+            sc = callback(false);
+        }
+        this.displayScore(sc);
+
+    }
+    Question.prototype.displayScore = function (score){
+        console.log('Your current score is : '+score);
+        console.log('---------------------------');
+    }
+
+    var q1 = new Question('Is Javascript hte coolest programming language in the world?', ['Yes', 'No'], 0);
+    var q2 = new Question('What does Rilakkuma eat?', ['cakes', 'alita', 'wangjun'], 0);
+    var q3 = new Question('What does kitty eat?', ['poops', 'fish and steaks', 'donuts'], 1);
+    var q4 = new Question('What does koala eat?', ['poops', 'huachenda', 'kitty'], 2);
+
+    var questions = [q1, q2, q3, q4];
+    function score(){
+        var sc = 0;
+        return function (correct){
+            if(correct){
+                sc++;
+            }
+            return sc;
+        }
+    }
+
+    var keepScore = score();
+
+    function nextQuestions(){
+        var n = Math.floor(Math.random() * questions.length);
+        questions[n].displayQuestion();
+        var answer =(prompt('Please select the correct answer.'));
+        if(answer !== 'exit'){
+            questions[n].checkAnswer( parseInt(answer),keepScore);
+            nextQuestions();
+        }
+    }
+
+   nextQuestions();
+})();
+
