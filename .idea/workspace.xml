@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="build new directory">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
+      <change afterPath="$PROJECT_DIR$/Section1(New version)/Challenge1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section1(New version)/Scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section1(New version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +106,8 @@
       <workItem from="1607255816142" duration="6537000" />
       <workItem from="1607785845343" duration="2919000" />
       <workItem from="1608451357709" duration="772000" />
-      <workItem from="1608453442557" duration="7326000" />
+      <workItem from="1608453442557" duration="7349000" />
+      <workItem from="1608638419655" duration="1507000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -190,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608457192555</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="..">
+      <created>1608463401372</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608463401372</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,9 +225,9 @@
     <MESSAGE value="add section 5" />
     <MESSAGE value="basic process" />
     <MESSAGE value="expert add" />
-    <MESSAGE value=".." />
     <MESSAGE value="several changes" />
     <MESSAGE value="build new directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="build new directory" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
