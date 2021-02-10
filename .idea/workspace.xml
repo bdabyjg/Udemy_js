@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_ifStatement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_ifStatement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_typeConversionAndCoercion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_typeConversionAndCoercion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1(New version)/Part 1 Template literal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Part1_templateLliteral.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1(New version)/Part1 Template literal.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Part1_templateLliteral.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1(New version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment=".." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +110,7 @@
       <workItem from="1611507157463" duration="3237000" />
       <workItem from="1612945149266" duration="270000" />
       <workItem from="1612945489201" duration="574000" />
-      <workItem from="1612949791735" duration="5021000" />
+      <workItem from="1612949791735" duration="5330000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -226,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611511138313</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="210">
+      <created>1612955870056</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612955870056</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +253,7 @@
     <MESSAGE value="build new directory" />
     <MESSAGE value=".." />
     <MESSAGE value="Template literal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template literal" />
+    <MESSAGE value="210" />
+    <option name="LAST_COMMIT_MESSAGE" value="210" />
   </component>
 </project>
