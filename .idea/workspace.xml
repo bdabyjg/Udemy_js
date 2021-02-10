@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part 1 String.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section1(New version)/String.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_ifStatement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_ifStatement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_typeConversionAndCoercion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section1(New version)/Part1_typeConversionAndCoercion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1(New version)/Challenge1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Challenge1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section1(New version)/Part 1 Template literal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Part1_templateLliteral.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section1(New version)/Part1 Template literal.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/Part1_templateLliteral.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section1(New version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section1(New version)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +116,10 @@
       <workItem from="1611479622869" duration="784000" />
       <workItem from="1611480554335" duration="125000" />
       <workItem from="1611480698737" duration="423000" />
-      <workItem from="1611507157463" duration="2892000" />
+      <workItem from="1611507157463" duration="3237000" />
+      <workItem from="1612945149266" duration="270000" />
+      <workItem from="1612945489201" duration="574000" />
+      <workItem from="1612949791735" duration="5021000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -213,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608640615879</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Template literal">
+      <created>1611511138313</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611511138313</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +254,7 @@
     <MESSAGE value="several changes" />
     <MESSAGE value="build new directory" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="Template literal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template literal" />
   </component>
 </project>
