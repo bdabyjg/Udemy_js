@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/33 Function Declaration VS Expressions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/34Function.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2(New version)/Challenge4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section2(New version)/Challenge4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section2(New version)/codeChallenge3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section2(New version)/Challenge3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section2(New version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section2(New version)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +55,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Coding/FruitAgentFrontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
@@ -64,8 +73,11 @@
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Challenge4.js">
+  <component name="RunManager" selected="Node.js.35arrayFunctions.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy_js/Section1(New version)/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="35arrayFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
       <method v="2" />
     </configuration>
     <configuration name="Challenge4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section2(New version)/Challenge4.js" working-dir="$PROJECT_DIR$/Section2(New version)">
@@ -78,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.35arrayFunctions.js" />
         <item itemvalue="Node.js.Challenge4.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -124,6 +137,9 @@
       <workItem from="1614065522004" duration="348000" />
       <workItem from="1614160202060" duration="5000" />
       <workItem from="1615217820506" duration="1320000" />
+      <workItem from="1615257659673" duration="1592000" />
+      <workItem from="1615278242968" duration="2414000" />
+      <workItem from="1615285434587" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
