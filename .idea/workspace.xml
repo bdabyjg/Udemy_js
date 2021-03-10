@@ -19,15 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/33 Function Declaration VS Expressions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/34Function.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.md" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/36 Function Calling other Function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/36 Functions Calling Other Functions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/37 Review.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2(New version)/codeChallenge3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section2(New version)/Challenge3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2(New version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section2(New version)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +70,17 @@
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.35arrayFunctions.js">
+  <component name="RunManager" selected="Node.js.37 Review.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy_js/Section1(New version)/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="35arrayFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/35arrayFunctions.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
+      <method v="2" />
+    </configuration>
+    <configuration name="36 Function Calling other Function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/36 Function Calling other Function.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
+      <method v="2" />
+    </configuration>
+    <configuration name="37 Review.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/37 Review.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
       <method v="2" />
     </configuration>
     <configuration name="Challenge4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section2(New version)/Challenge4.js" working-dir="$PROJECT_DIR$/Section2(New version)">
@@ -90,6 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.37 Review.js" />
+        <item itemvalue="Node.js.36 Function Calling other Function.js" />
         <item itemvalue="Node.js.35arrayFunctions.js" />
         <item itemvalue="Node.js.Challenge4.js" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -139,7 +144,8 @@
       <workItem from="1615217820506" duration="1320000" />
       <workItem from="1615257659673" duration="1592000" />
       <workItem from="1615278242968" duration="2414000" />
-      <workItem from="1615285434587" duration="1359000" />
+      <workItem from="1615285434587" duration="1473000" />
+      <workItem from="1615340768209" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -267,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614065546684</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="..">
+      <created>1615286835827</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1615286835827</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +299,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add some commenst in exc5" />
     <MESSAGE value="." />
@@ -294,11 +309,11 @@
     <MESSAGE value="expert add" />
     <MESSAGE value="several changes" />
     <MESSAGE value="build new directory" />
-    <MESSAGE value=".." />
     <MESSAGE value="Template literal" />
     <MESSAGE value="210" />
     <MESSAGE value="210.." />
     <MESSAGE value="change name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change name" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
