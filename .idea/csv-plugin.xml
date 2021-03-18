@@ -24,10 +24,31 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Section 3(New Version)\40 Objects.js">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Section 3(New Version)\Code Challenge 2.js">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Section 3(New Version)\Code Challenge.js">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Section 3(New Version)\index.html">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>

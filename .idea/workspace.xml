@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/39 Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,11 @@
       <workItem from="1615544628485" duration="14000" />
       <workItem from="1615599689420" duration="4919000" />
       <workItem from="1615617134300" duration="813000" />
-      <workItem from="1615617964574" duration="6720000" />
+      <workItem from="1615617964574" duration="7003000" />
+      <workItem from="1615771425267" duration="4638000" />
+      <workItem from="1616034037584" duration="25000" />
+      <workItem from="1616034091342" duration="546000" />
+      <workItem from="1616052413042" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -310,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615544474445</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="..">
+      <created>1615625071036</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1615625071036</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
