@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +159,8 @@
       <workItem from="1615771425267" duration="4638000" />
       <workItem from="1616034037584" duration="25000" />
       <workItem from="1616034091342" duration="546000" />
-      <workItem from="1616052413042" duration="1841000" />
+      <workItem from="1616052413042" duration="1889000" />
+      <workItem from="1616061345540" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -318,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615625071036</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="..">
+      <created>1616061266816</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616061266817</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
