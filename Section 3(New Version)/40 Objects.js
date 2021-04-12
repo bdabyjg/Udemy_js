@@ -33,10 +33,26 @@ const Kitty = {
     friends:['Koala','Maine Coon','Airou','Palico','Ratha'],
     hasDriveLicense:false,
     calcAge:function(){
-        console.log(this);
-        return 2037 - this.birthYear
+        this.age = 2037 - this.birthYear;
+        return this.age;
     }
 };
+// console.log(Kitty.calcAge());
+// console.log(Kitty.age);
 
-console.log(Kitty.calcAge());
+
+const Candela = {
+    firstName: 'Candela',
+    type:'Maine Coon',
+    friends: ['Koala','Kitty','Ratha','Airou'],
+    favorite:'Steak',
+    hasDriveLicense: false,
+    getSummary:function (){
+        return (`${this.firstName} is a ${this.type}, whose favorite food is ${this.favourite}, and ${this.firstName} have ${this.hasDriversLicense?' the' : 'no'} drivers license.`)
+    }
+
+
+}
+console.log(Candela.getSummary());
+
 

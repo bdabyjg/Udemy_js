@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,10 +99,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.40 Objects.js" />
         <item itemvalue="Node.js.Code Challenge 2.js" />
-        <item itemvalue="Node.js.39 Arrays.js" />
         <item itemvalue="Node.js.Code Challenge 1.js" />
+        <item itemvalue="Node.js.40 Objects.js" />
+        <item itemvalue="Node.js.39 Arrays.js" />
         <item itemvalue="Node.js.37 Review.js" />
       </list>
     </recent_temporary>
@@ -161,6 +163,11 @@
       <workItem from="1616034091342" duration="546000" />
       <workItem from="1616052413042" duration="1889000" />
       <workItem from="1616061345540" duration="14000" />
+      <workItem from="1617272978070" duration="88000" />
+      <workItem from="1617273076161" duration="18000" />
+      <workItem from="1618219213909" duration="1566000" />
+      <workItem from="1618220824399" duration="45000" />
+      <workItem from="1618220878547" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
