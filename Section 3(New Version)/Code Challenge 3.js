@@ -4,7 +4,8 @@ const Mark = {
     weight: 78,
     height: 1.69,
     BMIcalc:function (){
-        Mark.BMI = Mark.weight/(Mark.height)^2
+        this.BMI = this.weight/this.height**2 ;
+        return this.BMI
     }
 };
 
@@ -13,10 +14,17 @@ const John = {
     weight: 92,
     height: 1.95,
     BMIcalc:function (){
-        John.BMI = John.weight/(John.height)^2
+        this.BMI = this.weight/this.height**2 ;
+        return this.BMI
     }
 }
 
-function summary(Mark,John){
-
+function summary(){
+  return John.BMI>Mark.BMI? `John's BMI is greater than Mark's.`:`Mark's BMI is greater than John's.`
 }
+console.log(summary());
+
+
+
+
+
