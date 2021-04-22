@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="..">
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/46 Iteration The For Loop.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/46-47 Loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021422">
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/46-49 Loop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 3(New Version)/46-47 Loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section6/aa.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -77,11 +79,8 @@
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.46-47 Loop.js">
-    <configuration name="40 Objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/40 Objects.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
-    <configuration name="46-47 Loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/46-47 Loop.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
+  <component name="RunManager" selected="Node.js.Code Challenge 4.js">
+    <configuration name="46-49 Loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/46-49 Loop.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
       <method v="2" />
     </configuration>
     <configuration name="Code Challenge 1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 1.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
@@ -93,6 +92,9 @@
     <configuration name="Code Challenge 3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 3.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
       <method v="2" />
     </configuration>
+    <configuration name="Code Challenge 4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 4.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
@@ -100,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.46-47 Loop.js" />
+        <item itemvalue="Node.js.Code Challenge 4.js" />
         <item itemvalue="Node.js.Code Challenge 3.js" />
         <item itemvalue="Node.js.Code Challenge 2.js" />
         <item itemvalue="Node.js.Code Challenge 1.js" />
-        <item itemvalue="Node.js.40 Objects.js" />
+        <item itemvalue="Node.js.46-49 Loop.js" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,11 @@
       <workItem from="1618221076645" duration="531000" />
       <workItem from="1618286971525" duration="611000" />
       <workItem from="1618649971336" duration="3258000" />
-      <workItem from="1618909796085" duration="2062000" />
+      <workItem from="1618909796085" duration="2119000" />
+      <workItem from="1618974781405" duration="51000" />
+      <workItem from="1619056081071" duration="6540000" />
+      <workItem from="1619072560073" duration="5106000" />
+      <workItem from="1619079993805" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -356,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618653201732</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2021420">
+      <created>1618912599119</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1618912599119</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +403,7 @@
     <MESSAGE value="210.." />
     <MESSAGE value="change name" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="2021420" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021420" />
   </component>
 </project>
