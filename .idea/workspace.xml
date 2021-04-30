@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021427下午 start Section 5">
-      <change afterPath="$PROJECT_DIR$/Section 5/DOM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Events.md" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021429下午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/script.js" afterDir="false" />
     </list>
@@ -66,6 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -182,7 +181,8 @@
       <workItem from="1619511957698" duration="1066000" />
       <workItem from="1619660162270" duration="434000" />
       <workItem from="1619661681222" duration="631000" />
-      <workItem from="1619679138935" duration="3524000" />
+      <workItem from="1619679138935" duration="4174000" />
+      <workItem from="1619747375073" duration="4274000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -394,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619513005568</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2021429下午">
+      <created>1619687473734</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1619687473734</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,6 +438,7 @@
     <MESSAGE value="2021420" />
     <MESSAGE value="2021422下午 End Section 3" />
     <MESSAGE value="2021427下午 start Section 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021427下午 start Section 5" />
+    <MESSAGE value="2021429下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021429下午" />
   </component>
 </project>
