@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021429下午">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021430上午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/script.js" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -182,7 +182,11 @@
       <workItem from="1619660162270" duration="434000" />
       <workItem from="1619661681222" duration="631000" />
       <workItem from="1619679138935" duration="4174000" />
-      <workItem from="1619747375073" duration="4274000" />
+      <workItem from="1619747375073" duration="4336000" />
+      <workItem from="1620178770544" duration="29000" />
+      <workItem from="1620178831280" duration="2054000" />
+      <workItem from="1620194774632" duration="158000" />
+      <workItem from="1620195798560" duration="2823000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -401,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619687473734</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2021430上午">
+      <created>1619755837719</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1619755837719</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,6 +450,7 @@
     <MESSAGE value="2021422下午 End Section 3" />
     <MESSAGE value="2021427下午 start Section 5" />
     <MESSAGE value="2021429下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021429下午" />
+    <MESSAGE value="2021430上午" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021430上午" />
   </component>
 </project>
