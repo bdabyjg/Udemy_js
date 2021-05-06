@@ -19,9 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="202155下午">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.6 guess number game done.">
+      <change afterPath="$PROJECT_DIR$/Section 5/Guessing/DOM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Guessing/Events.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Guessing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Guessing/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Guessing/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Modal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Modal/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Modal/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/DOM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/Events.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +202,7 @@
       <workItem from="1620199849674" duration="65000" />
       <workItem from="1620207481823" duration="297000" />
       <workItem from="1620269734711" duration="2669000" />
-      <workItem from="1620287802840" duration="1089000" />
+      <workItem from="1620287802840" duration="6311000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -423,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620199738643</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="2021.5.6 guess number game done.">
+      <created>1620288946412</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1620288946412</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,6 +482,7 @@
     <MESSAGE value="2021429下午" />
     <MESSAGE value="2021430上午" />
     <MESSAGE value="202155下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="202155下午" />
+    <MESSAGE value="2021.5.6 guess number game done." />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.6 guess number game done." />
   </component>
 </project>
