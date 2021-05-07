@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.6 build Modal project">
-      <change afterPath="$PROJECT_DIR$/Section 5/Modal/Keyboard Event.md" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.7 end Modal project">
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/Modal/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +199,9 @@
       <workItem from="1620207481823" duration="297000" />
       <workItem from="1620269734711" duration="2669000" />
       <workItem from="1620287802840" duration="6720000" />
-      <workItem from="1620351357002" duration="4359000" />
+      <workItem from="1620351357002" duration="4679000" />
+      <workItem from="1620369339559" duration="726000" />
+      <workItem from="1620371607780" duration="5815000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -439,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620294554552</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2021.5.7 end Modal project">
+      <created>1620360456533</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1620360456533</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,6 +497,7 @@
     <MESSAGE value="202155下午" />
     <MESSAGE value="2021.5.6 guess number game done." />
     <MESSAGE value="2021.5.6 build Modal project" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.6 build Modal project" />
+    <MESSAGE value="2021.5.7 end Modal project" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.7 end Modal project" />
   </component>
 </project>
