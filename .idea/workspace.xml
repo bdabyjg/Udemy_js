@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.8上午">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.8下午 end the Pig Game">
+      <change afterPath="$PROJECT_DIR$/Section6/89 An high-level overview of JavaScript.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/Pig Game/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,8 @@
       <workItem from="1620369339559" duration="726000" />
       <workItem from="1620371607780" duration="5888000" />
       <workItem from="1620440837068" duration="3207000" />
-      <workItem from="1620453688374" duration="4341000" />
+      <workItem from="1620453688374" duration="5235000" />
+      <workItem from="1620460218193" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -463,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620445663049</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2021.5.8下午 end the Pig Game">
+      <created>1620458459406</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1620458459406</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,6 +516,7 @@
     <MESSAGE value="2021.5.7 end Modal project" />
     <MESSAGE value="2021.5.7下午 start Pig Game" />
     <MESSAGE value="2021.5.8上午" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.8上午" />
+    <MESSAGE value="2021.5.8下午 end the Pig Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.8下午 end the Pig Game" />
   </component>
 </project>
