@@ -30,7 +30,7 @@ btnRoll.addEventListener('click',function (){
     //2. Display dice;
     diceEl.classList.remove('hidden');
     diceEl.src = `dice-${dice}.png`;
-    //3. Check for rooled 1: if true, switch to next player
+    //3. Check for rolled 1: if true, switch to next player
     if(dice !==1){
         // Add dice to current score:currentScore = currentScore + dice;
         currentScore +=dice;
@@ -40,6 +40,18 @@ btnRoll.addEventListener('click',function (){
         document.getElementById(`current--${activePlayer}`).textContent = 0;
         currentScore = 0;
         activePlayer = activePlayer===0 ? 1 : 0;
+        player0El.classList.toggle('player--active');
+        player1El.classList.toggle('player--active');
 
     }
+})
+
+btnHold.addEventListener('click',function (){
+    // 1. Add current score to active player;
+    // scores[1] = scores[1] + currentScore;
+    scores[activePlayer] += currentScore;
+
+    // 2. Check if player's score is >= 100, finish the game
+    document.getElementById(`current--${activePlayer}`).textContent = scores[activePlayer];
+    // Switch to the next player
 })

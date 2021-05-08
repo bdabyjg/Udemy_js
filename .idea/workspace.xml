@@ -19,17 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.7 end Modal project">
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/dice-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 5/Pig Game/style.css" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.7下午 start Pig Game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 5/Pig Game/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +193,8 @@
       <workItem from="1620287802840" duration="6720000" />
       <workItem from="1620351357002" duration="4679000" />
       <workItem from="1620369339559" duration="726000" />
-      <workItem from="1620371607780" duration="5815000" />
+      <workItem from="1620371607780" duration="5888000" />
+      <workItem from="1620440837068" duration="3050000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -455,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620360456533</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="2021.5.7下午 start Pig Game">
+      <created>1620379140773</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1620379140773</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,6 +498,7 @@
     <MESSAGE value="2021.5.6 guess number game done." />
     <MESSAGE value="2021.5.6 build Modal project" />
     <MESSAGE value="2021.5.7 end Modal project" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.7 end Modal project" />
+    <MESSAGE value="2021.5.7下午 start Pig Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.7下午 start Pig Game" />
   </component>
 </project>
