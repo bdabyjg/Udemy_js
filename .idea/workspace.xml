@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.8下午 end the Pig Game">
-      <change afterPath="$PROJECT_DIR$/Section6/89 An high-level overview of JavaScript.md" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +196,9 @@
       <workItem from="1620440837068" duration="3207000" />
       <workItem from="1620453688374" duration="5235000" />
       <workItem from="1620460218193" duration="1331000" />
+      <workItem from="1620466683465" duration="104000" />
+      <workItem from="1620610910271" duration="15000" />
+      <workItem from="1620610933077" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -471,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620458459406</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2021.5.8下午 Start Section 8">
+      <created>1620466771058</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1620466771058</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,6 +526,7 @@
     <MESSAGE value="2021.5.7下午 start Pig Game" />
     <MESSAGE value="2021.5.8上午" />
     <MESSAGE value="2021.5.8下午 end the Pig Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.8下午 end the Pig Game" />
+    <MESSAGE value="2021.5.8下午 Start Section 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.8下午 Start Section 8" />
   </component>
 </project>
