@@ -22,64 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.13">
-      <change afterPath="$PROJECT_DIR$/Section 7/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/.readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/DOM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/Events.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Guessing/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Modal/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Modal/Keyboard Event.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Modal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Modal/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Modal/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/dice-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 7/Pig Game/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/89 An high-level overview of JavaScript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/90 The JavaScript engine and runtime.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/91 Execution Contexts and The Call Stack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/92 Scope and the scope Chain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/script.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.17">
+      <change afterPath="$PROJECT_DIR$/Section 8/92 Scope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8/95 Hoisting and TDZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8/97 this keyword.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/.readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/DOM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/Events.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Guessing/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/Keyboard Event.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Modal/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/dice-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 5/Pig Game/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section6/89 An high-level overview of JavaScript.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section6/90 The JavaScript engine and runtime.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section6/91 Execution Contexts and The Call Stack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section6/92 Scope and the scope Chain.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 8/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +212,8 @@
       <workItem from="1620813801754" duration="84000" />
       <workItem from="1620901303075" duration="79000" />
       <workItem from="1621061380657" duration="3575000" />
-      <workItem from="1621217967665" duration="1656000" />
+      <workItem from="1621217967665" duration="3495000" />
+      <workItem from="1621232433435" duration="7128000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -566,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620901310160</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2021.5.17">
+      <created>1621219706148</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1621219706148</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +545,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="basic process" />
     <MESSAGE value="expert add" />
     <MESSAGE value="several changes" />
     <MESSAGE value="build new directory" />
@@ -613,6 +569,7 @@
     <MESSAGE value="2021.5.10 90 markdown" />
     <MESSAGE value="2021.5.12" />
     <MESSAGE value="2021.5.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.13" />
+    <MESSAGE value="2021.5.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.17" />
   </component>
 </project>
