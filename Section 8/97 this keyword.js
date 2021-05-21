@@ -29,3 +29,6 @@ const rilakkuma = {
 }
 rilakkuma.calcAge = Koala.calcAge;
 rilakkuma.calcAge();
+
+
+const f = Koala.calcAge;

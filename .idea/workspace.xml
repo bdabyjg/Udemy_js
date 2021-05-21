@@ -23,12 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.17">
-      <change afterPath="$PROJECT_DIR$/Section 8/92 Scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/95 Hoisting and TDZ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 8/97 this keyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8/97 The this keyword practice.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8/98 Regular function vs arrow function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8/99 Primitives vs objects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 8/97 this keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8/97 this keyword.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +214,11 @@
       <workItem from="1621061380657" duration="3575000" />
       <workItem from="1621217967665" duration="3495000" />
       <workItem from="1621232433435" duration="7128000" />
+      <workItem from="1621244883594" duration="398000" />
+      <workItem from="1621303169491" duration="2634000" />
+      <workItem from="1621495520361" duration="2709000" />
+      <workItem from="1621561147931" duration="3890000" />
+      <workItem from="1621577631579" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -523,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621219706148</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2021.5.17">
+      <created>1621245266595</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1621245266595</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
