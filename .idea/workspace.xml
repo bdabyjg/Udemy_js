@@ -22,9 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.21">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.22 End section 8">
+      <change afterPath="$PROJECT_DIR$/Section 9/103 Destructuring Arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/99 Primitives vs objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8/99 Primitives vs objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_Section3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Older Version/index_Section3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +80,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Coding\Udemy_js\Older Version" />
+      <recent name="D:\Coding\Udemy_js\Section 9" />
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
   </component>
@@ -218,7 +222,7 @@
       <workItem from="1621580749870" duration="30000" />
       <workItem from="1621649202283" duration="24000" />
       <workItem from="1621649234831" duration="1561000" />
-      <workItem from="1621664561423" duration="1839000" />
+      <workItem from="1621664561423" duration="4091000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -542,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621580765513</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2021.5.22 End section 8">
+      <created>1621667698440</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1621667698440</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +575,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="several changes" />
     <MESSAGE value="build new directory" />
     <MESSAGE value="Template literal" />
     <MESSAGE value="210" />
@@ -589,6 +599,7 @@
     <MESSAGE value="2021.5.13" />
     <MESSAGE value="2021.5.17" />
     <MESSAGE value="2021.5.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.21" />
+    <MESSAGE value="2021.5.22 End section 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.22 End section 8" />
   </component>
 </project>
