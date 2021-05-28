@@ -23,13 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.24">
-      <change afterPath="$PROJECT_DIR$/Section 9/103 De-structuring Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/104 De-structuring Objects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/104 De-structuring ojbects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/105 The spread operator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/103 Destructuring Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/103 Destructuring Arrays.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +226,9 @@
       <workItem from="1621664561423" duration="4091000" />
       <workItem from="1621672009542" duration="25000" />
       <workItem from="1621823857009" duration="2820000" />
-      <workItem from="1621836746043" duration="10541000" />
+      <workItem from="1621836746043" duration="10811000" />
+      <workItem from="1622190377570" duration="41000" />
+      <workItem from="1622190428578" duration="3511000" />
     </task>
     <task id="LOCAL-00001" summary="add some commenst in exc5">
       <created>1598779126216</created>
@@ -568,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621672023696</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2021.5.24">
+      <created>1621850416614</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1621850416614</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +595,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Template literal" />
     <MESSAGE value="210" />
     <MESSAGE value="210.." />
     <MESSAGE value="change name" />
@@ -615,6 +619,7 @@
     <MESSAGE value="2021.5.21" />
     <MESSAGE value="2021.5.22 End section 8" />
     <MESSAGE value="2021.5.22 Start Section 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.22 Start Section 9" />
+    <MESSAGE value="2021.5.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.24" />
   </component>
 </project>
