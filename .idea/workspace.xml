@@ -22,9 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.24">
-      <change afterPath="$PROJECT_DIR$/Section 9/105 The spread operator.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.28">
+      <change afterPath="$PROJECT_DIR$/Section 9/106 Rest Pattern and  Parameters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 9/105 The spread operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/105 The spread operator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 9" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -228,14 +229,14 @@
       <workItem from="1621823857009" duration="2820000" />
       <workItem from="1621836746043" duration="10811000" />
       <workItem from="1622190377570" duration="41000" />
-      <workItem from="1622190428578" duration="3511000" />
-    </task>
-    <task id="LOCAL-00001" summary="add some commenst in exc5">
-      <created>1598779126216</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1598779126216</updated>
+      <workItem from="1622190428578" duration="4162000" />
+      <workItem from="1622432565847" duration="4000" />
+      <workItem from="1622443494333" duration="1007000" />
+      <workItem from="1622515013752" duration="4227000" />
+      <workItem from="1622598440032" duration="600000" />
+      <workItem from="1622624123376" duration="27000" />
+      <workItem from="1622624183105" duration="1228000" />
+      <workItem from="1622705259169" duration="5619000" />
     </task>
     <task id="LOCAL-00002" summary=".">
       <created>1599139130300</created>
@@ -573,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621850416614</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="2021.5.28">
+      <created>1622195693717</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1622195693717</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +603,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="210" />
     <MESSAGE value="210.." />
     <MESSAGE value="change name" />
     <MESSAGE value=".." />
@@ -620,6 +627,7 @@
     <MESSAGE value="2021.5.22 End section 8" />
     <MESSAGE value="2021.5.22 Start Section 9" />
     <MESSAGE value="2021.5.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.24" />
+    <MESSAGE value="2021.5.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.28" />
   </component>
 </project>
