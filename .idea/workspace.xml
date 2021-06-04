@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.5.28">
-      <change afterPath="$PROJECT_DIR$/Section 9/106 Rest Pattern and  Parameters.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.3">
+      <change afterPath="$PROJECT_DIR$/Section 9/107 Short circuiting.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/105 The spread operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/105 The spread operator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -236,14 +235,10 @@
       <workItem from="1622598440032" duration="600000" />
       <workItem from="1622624123376" duration="27000" />
       <workItem from="1622624183105" duration="1228000" />
-      <workItem from="1622705259169" duration="5619000" />
-    </task>
-    <task id="LOCAL-00002" summary=".">
-      <created>1599139130300</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1599139130300</updated>
+      <workItem from="1622705259169" duration="5646000" />
+      <workItem from="1622773872055" duration="1206000" />
+      <workItem from="1622787311926" duration="3515000" />
+      <workItem from="1622800973152" duration="1188000" />
     </task>
     <task id="LOCAL-00003" summary=".">
       <created>1599144036891</created>
@@ -581,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622195693717</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2021.6.3">
+      <created>1622714383339</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1622714383339</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +605,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="210.." />
     <MESSAGE value="change name" />
     <MESSAGE value=".." />
     <MESSAGE value="2021420" />
@@ -628,6 +629,7 @@
     <MESSAGE value="2021.5.22 Start Section 9" />
     <MESSAGE value="2021.5.24" />
     <MESSAGE value="2021.5.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.28" />
+    <MESSAGE value="2021.6.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.3" />
   </component>
 </project>
