@@ -22,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.3">
-      <change afterPath="$PROJECT_DIR$/Section 9/107 Short circuiting.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.4">
+      <change afterPath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 9/107 Short circuiting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/107 Short circuiting &amp; 108 The nullish coalescing operator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.last.introduce.type" value="CONST" />
@@ -238,14 +239,9 @@
       <workItem from="1622705259169" duration="5646000" />
       <workItem from="1622773872055" duration="1206000" />
       <workItem from="1622787311926" duration="3515000" />
-      <workItem from="1622800973152" duration="1188000" />
-    </task>
-    <task id="LOCAL-00003" summary=".">
-      <created>1599144036891</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1599144036891</updated>
+      <workItem from="1622800973152" duration="1227000" />
+      <workItem from="1622858165964" duration="2589000" />
+      <workItem from="1622874039160" duration="6462000" />
     </task>
     <task id="LOCAL-00004" summary=".">
       <created>1599298711564</created>
@@ -583,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622714383339</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2021.6.4">
+      <created>1622802177739</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1622802177740</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +608,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="change name" />
     <MESSAGE value=".." />
     <MESSAGE value="2021420" />
     <MESSAGE value="2021422下午 End Section 3" />
@@ -630,6 +632,7 @@
     <MESSAGE value="2021.5.24" />
     <MESSAGE value="2021.5.28" />
     <MESSAGE value="2021.6.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.3" />
+    <MESSAGE value="2021.6.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.4" />
   </component>
 </project>
