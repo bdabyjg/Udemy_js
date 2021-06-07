@@ -22,11 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.4">
-      <change afterPath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 1.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.5">
+      <change afterPath="$PROJECT_DIR$/Section 9/111 Looping Objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/107 Short circuiting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/107 Short circuiting &amp; 108 The nullish coalescing operator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/Challenge 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,14 +242,9 @@
       <workItem from="1622787311926" duration="3515000" />
       <workItem from="1622800973152" duration="1227000" />
       <workItem from="1622858165964" duration="2589000" />
-      <workItem from="1622874039160" duration="6462000" />
-    </task>
-    <task id="LOCAL-00004" summary=".">
-      <created>1599298711564</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1599298711564</updated>
+      <workItem from="1622874039160" duration="6833000" />
+      <workItem from="1623031086256" duration="7780000" />
+      <workItem from="1623045912798" duration="12683000" />
     </task>
     <task id="LOCAL-00005" summary=".">
       <created>1599299148654</created>
@@ -586,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622802177740</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2021.6.5">
+      <created>1622886698051</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1622886698051</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +611,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=".." />
     <MESSAGE value="2021420" />
     <MESSAGE value="2021422下午 End Section 3" />
     <MESSAGE value="2021427下午 start Section 5" />
@@ -633,6 +635,7 @@
     <MESSAGE value="2021.5.28" />
     <MESSAGE value="2021.6.3" />
     <MESSAGE value="2021.6.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.4" />
+    <MESSAGE value="2021.6.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.5" />
   </component>
 </project>
