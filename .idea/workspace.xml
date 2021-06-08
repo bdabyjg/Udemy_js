@@ -22,12 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.5">
-      <change afterPath="$PROJECT_DIR$/Section 9/111 Looping Objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 2.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.6 Challenge 2">
+      <change afterPath="$PROJECT_DIR$/Section 9/115 Sets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 9/116 Maps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/Challenge 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,14 +242,11 @@
       <workItem from="1622858165964" duration="2589000" />
       <workItem from="1622874039160" duration="6833000" />
       <workItem from="1623031086256" duration="7780000" />
-      <workItem from="1623045912798" duration="12683000" />
-    </task>
-    <task id="LOCAL-00005" summary=".">
-      <created>1599299148654</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1599299148654</updated>
+      <workItem from="1623045912798" duration="12744000" />
+      <workItem from="1623133564628" duration="2831000" />
+      <workItem from="1623139254337" duration="232000" />
+      <workItem from="1623139959818" duration="167000" />
+      <workItem from="1623141137987" duration="3008000" />
     </task>
     <task id="LOCAL-00006" summary=".">
       <created>1599579161558</created>
@@ -589,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622886698051</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="2021.6.6 Challenge 2">
+      <created>1623060725502</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1623060725502</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +613,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021420" />
     <MESSAGE value="2021422下午 End Section 3" />
     <MESSAGE value="2021427下午 start Section 5" />
     <MESSAGE value="2021429下午" />
@@ -636,6 +637,7 @@
     <MESSAGE value="2021.6.3" />
     <MESSAGE value="2021.6.4" />
     <MESSAGE value="2021.6.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.5" />
+    <MESSAGE value="2021.6.6 Challenge 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.6 Challenge 2" />
   </component>
 </project>
