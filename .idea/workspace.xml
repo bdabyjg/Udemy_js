@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.6 Challenge 2">
-      <change afterPath="$PROJECT_DIR$/Section 9/115 Sets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/116 Maps.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.8">
+      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 9/116 Maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/116 Maps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,36 +85,12 @@
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Code Challenge 4.js">
-    <configuration name="46-49 Loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/46-49 Loop.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
-    <configuration name="Code Challenge 1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 1.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
-    <configuration name="Code Challenge 2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 2.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
-    <configuration name="Code Challenge 3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 3.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
-    <configuration name="Code Challenge 4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Section 3(New Version)/Code Challenge 4.js" working-dir="$PROJECT_DIR$/Section 3(New Version)">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.Code Challenge 4.js" />
-        <item itemvalue="Node.js.Code Challenge 3.js" />
-        <item itemvalue="Node.js.Code Challenge 2.js" />
-        <item itemvalue="Node.js.Code Challenge 1.js" />
-        <item itemvalue="Node.js.46-49 Loop.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -246,14 +222,8 @@
       <workItem from="1623133564628" duration="2831000" />
       <workItem from="1623139254337" duration="232000" />
       <workItem from="1623139959818" duration="167000" />
-      <workItem from="1623141137987" duration="3008000" />
-    </task>
-    <task id="LOCAL-00006" summary=".">
-      <created>1599579161558</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1599579161558</updated>
+      <workItem from="1623141137987" duration="3113000" />
+      <workItem from="1623220234863" duration="8699000" />
     </task>
     <task id="LOCAL-00007" summary="add section 5">
       <created>1606624009669</created>
@@ -591,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623060725502</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="2021.6.8">
+      <created>1623144264231</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1623144264232</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +590,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021422下午 End Section 3" />
     <MESSAGE value="2021427下午 start Section 5" />
     <MESSAGE value="2021429下午" />
     <MESSAGE value="2021430上午" />
@@ -638,6 +614,7 @@
     <MESSAGE value="2021.6.4" />
     <MESSAGE value="2021.6.5" />
     <MESSAGE value="2021.6.6 Challenge 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.6 Challenge 2" />
+    <MESSAGE value="2021.6.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.8" />
   </component>
 </project>
