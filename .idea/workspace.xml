@@ -22,12 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.9">
-      <change afterPath="$PROJECT_DIR$/Section 9/120 Working with strings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/124 Strings Practice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 9/Challenge 4.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.11 End Section 9">
+      <change afterPath="$PROJECT_DIR$/Section 10/127 Default Parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/128 Value &amp; Reference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/130 Functions accepting callback functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/131 Functions return functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/132 The call and apply  Methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/133 The bind method.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +84,7 @@
       <recent name="D:\Coding\Udemy_js\Section 9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Udemy_js\Section 10" />
       <recent name="D:\Coding\Udemy_js\Older Version" />
       <recent name="D:\Coding\Udemy_js\Section 9" />
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
@@ -229,14 +233,12 @@
       <workItem from="1623305544852" duration="12854000" />
       <workItem from="1623320041969" duration="5000" />
       <workItem from="1623392035696" duration="604000" />
-      <workItem from="1623393528484" duration="10040000" />
-    </task>
-    <task id="LOCAL-00008" summary="basic process">
-      <created>1606660200083</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1606660200083</updated>
+      <workItem from="1623393528484" duration="10320000" />
+      <workItem from="1623462923765" duration="4916000" />
+      <workItem from="1623746551299" duration="594000" />
+      <workItem from="1623824123526" duration="595000" />
+      <workItem from="1623826307922" duration="7622000" />
+      <workItem from="1623921060719" duration="2607000" />
     </task>
     <task id="LOCAL-00009" summary="expert add">
       <created>1607266176457</created>
@@ -574,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623230364843</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2021.6.11 End Section 9">
+      <created>1623408711981</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1623408711981</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +605,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021429下午" />
     <MESSAGE value="2021430上午" />
     <MESSAGE value="202155下午" />
     <MESSAGE value="2021.5.6 guess number game done." />
@@ -621,6 +629,7 @@
     <MESSAGE value="2021.6.6 Challenge 2" />
     <MESSAGE value="2021.6.8" />
     <MESSAGE value="2021.6.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.9" />
+    <MESSAGE value="2021.6.11 End Section 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.11 End Section 9" />
   </component>
 </project>
