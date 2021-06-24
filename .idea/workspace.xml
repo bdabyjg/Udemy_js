@@ -22,15 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.11 End Section 9">
-      <change afterPath="$PROJECT_DIR$/Section 10/127 Default Parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/128 Value &amp; Reference.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/130 Functions accepting callback functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/131 Functions return functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/132 The call and apply  Methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/133 The bind method.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 10/index.html" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.17">
+      <change afterPath="$PROJECT_DIR$/Section 10/135 IIFE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/136 Closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/Challenge 1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 10/Challenge 2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 10/132 The call and apply  Methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10/132 The call and apply  Methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 10/133 The bind method.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10/133 The bind method.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,14 +238,13 @@
       <workItem from="1623746551299" duration="594000" />
       <workItem from="1623824123526" duration="595000" />
       <workItem from="1623826307922" duration="7622000" />
-      <workItem from="1623921060719" duration="2607000" />
-    </task>
-    <task id="LOCAL-00009" summary="expert add">
-      <created>1607266176457</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607266176457</updated>
+      <workItem from="1623921060719" duration="2809000" />
+      <workItem from="1624327367160" duration="143000" />
+      <workItem from="1624327529824" duration="600000" />
+      <workItem from="1624329693314" duration="2833000" />
+      <workItem from="1624342204452" duration="5185000" />
+      <workItem from="1624428704993" duration="5463000" />
+      <workItem from="1624498953091" duration="6412000" />
     </task>
     <task id="LOCAL-00010" summary="..">
       <created>1607266759802</created>
@@ -583,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623408711981</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="2021.6.17">
+      <created>1623923794530</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1623923794531</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +611,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021430上午" />
     <MESSAGE value="202155下午" />
     <MESSAGE value="2021.5.6 guess number game done." />
     <MESSAGE value="2021.5.6 build Modal project" />
@@ -630,6 +635,7 @@
     <MESSAGE value="2021.6.8" />
     <MESSAGE value="2021.6.9" />
     <MESSAGE value="2021.6.11 End Section 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.11 End Section 9" />
+    <MESSAGE value="2021.6.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.17" />
   </component>
 </project>

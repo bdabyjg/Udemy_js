@@ -22,6 +22,9 @@ const eurowings = {
 
 
 const book = lufthansa.book;
+//Does not work such as:
+//book(56,'Someone')
+
 // book.call(eurowings,45,"Meow");
 // console.log(eurowings);
 
@@ -32,7 +35,11 @@ const swiss = {
 }
 
 const flightData = [790,'Maine Coon'];
+//Apply 除了第一个是指派的this是那里的对象，后面传入的就是数组
+book.apply(swiss,flightData);
+//ModernJavascript不怎么用apply，多用call。De-structuring一样变成了数组
+book.call(swiss,...flightData);
 // book.apply("apply method:",swiss,flightData);
 // console.log(swiss);
-book.call(swiss,...flightData);
+
 console.log("Modern Javascript:",swiss);

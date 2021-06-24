@@ -23,6 +23,34 @@ const swiss = {
     bookings:[]
 };
 
+// book.call(swiss,...flightData);
+const bookEW =book.bind(eurowings);
+// bookEW(23,'Maine Coon');
+const bookLH = book.bind(lufthansa);
+const bookLX = book.bind(swiss);
 
-book.bind(eurowings);
+const bookEW23 = book.bind(eurowings,23);
+// bookEW23('Ratha');
 
+
+lufthansa.planes = 300;
+lufthansa.buyPlane = function (){
+    console.log(this);
+    this.planes++;
+    console.log(this.planes);
+}
+document.querySelector('.buy').addEventListener('click',lufthansa.buyPlane.bind(lufthansa));
+
+const addTax = (rate,value)=>value+value*rate;
+
+//addVAT = value =>value+value*0.23;
+const addVAT = addTax.bind(null,0.23);
+console.log(addVAT(200));
+
+const addTaxRate = function (rate){
+    return function (value){
+        return value+value*rate
+    }
+}
+const addVAT2 = addTaxRate(0.23);
+console.log(addVAT2(200));
