@@ -22,17 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.24 End Section 10">
-      <change afterPath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/Bankist-flowchart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/style.css" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.24下午 Start Section 11">
+      <change afterPath="$PROJECT_DIR$/Section 11/142 forEach method.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/145  Create DOM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/Challenge 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/133 The bind method.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10/133 The bind method.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Section 11/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Section 11/141 Simple array methods.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Section 11/script.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1goJeuD7zqqFBFIeaeP4udi9C4u" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -75,10 +77,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice/Leetcode" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -249,14 +251,13 @@
       <workItem from="1624428704993" duration="5463000" />
       <workItem from="1624498953091" duration="6662000" />
       <workItem from="1624515029368" duration="6674000" />
-      <workItem from="1624524195732" duration="3840000" />
-    </task>
-    <task id="LOCAL-00011" summary="several changes">
-      <created>1607790729204</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1607790729204</updated>
+      <workItem from="1624524195732" duration="3920000" />
+      <workItem from="1624543072908" duration="626000" />
+      <workItem from="1624544573259" duration="73000" />
+      <workItem from="1624845874839" duration="1195000" />
+      <workItem from="1624847299356" duration="2237000" />
+      <workItem from="1624849577005" duration="2381000" />
+      <workItem from="1624862094450" duration="8381000" />
     </task>
     <task id="LOCAL-00012" summary="build new directory">
       <created>1608457192555</created>
@@ -594,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624507616750</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="2021.6.24下午 Start Section 11">
+      <created>1624529573954</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1624529573955</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +624,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.6 guess number game done." />
     <MESSAGE value="2021.5.6 build Modal project" />
     <MESSAGE value="2021.5.7 end Modal project" />
     <MESSAGE value="2021.5.7下午 start Pig Game" />
@@ -641,6 +648,7 @@
     <MESSAGE value="2021.6.11 End Section 9" />
     <MESSAGE value="2021.6.17" />
     <MESSAGE value="2021.6.24 End Section 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.24 End Section 10" />
+    <MESSAGE value="2021.6.24下午 Start Section 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.24下午 Start Section 11" />
   </component>
 </project>
