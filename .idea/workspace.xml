@@ -22,14 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.24下午 Start Section 11">
-      <change afterPath="$PROJECT_DIR$/Section 11/142 forEach method.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/145  Create DOM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/Challenge 1.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.28下午">
+      <change afterPath="$PROJECT_DIR$/Section 11/147 Data Transformations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/Challenge 2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/name[0]" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/145  Create DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/145  Create DOM.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 11/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Older Version/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Older Version/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +90,8 @@
       <recent name="D:\Coding\Udemy_js\Section 9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Coding\Udemy_js\Section 10" />
       <recent name="D:\Coding\Udemy_js\Older Version" />
+      <recent name="D:\Coding\Udemy_js\Section 10" />
       <recent name="D:\Coding\Udemy_js\Section 9" />
       <recent name="C:\Users\eudor\Desktop\Udemy_js\Section 5" />
     </key>
@@ -257,14 +258,10 @@
       <workItem from="1624845874839" duration="1195000" />
       <workItem from="1624847299356" duration="2237000" />
       <workItem from="1624849577005" duration="2381000" />
-      <workItem from="1624862094450" duration="8381000" />
-    </task>
-    <task id="LOCAL-00012" summary="build new directory">
-      <created>1608457192555</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1608457192555</updated>
+      <workItem from="1624862094450" duration="9010000" />
+      <workItem from="1624931050909" duration="4110000" />
+      <workItem from="1624937064771" duration="2102000" />
+      <workItem from="1624947100105" duration="11539000" />
     </task>
     <task id="LOCAL-00013" summary="..">
       <created>1608463401372</created>
@@ -602,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624529573955</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="2021.6.28下午">
+      <created>1624873826496</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1624873826496</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +628,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.6 build Modal project" />
     <MESSAGE value="2021.5.7 end Modal project" />
     <MESSAGE value="2021.5.7下午 start Pig Game" />
     <MESSAGE value="2021.5.8上午" />
@@ -649,6 +652,7 @@
     <MESSAGE value="2021.6.17" />
     <MESSAGE value="2021.6.24 End Section 10" />
     <MESSAGE value="2021.6.24下午 Start Section 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.24下午 Start Section 11" />
+    <MESSAGE value="2021.6.28下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.28下午" />
   </component>
 </project>
