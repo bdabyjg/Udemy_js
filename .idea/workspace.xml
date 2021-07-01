@@ -22,15 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.28下午">
-      <change afterPath="$PROJECT_DIR$/Section 11/147 Data Transformations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/Challenge 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/name[0]" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.29下午">
+      <change afterPath="$PROJECT_DIR$/Section 10/First-class and Higher-order functions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/153 Chaining Methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 11/155 The Find method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 11/145  Create DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/145  Create DOM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/Challenge 2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Older Version/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Older Version/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,14 +260,12 @@
       <workItem from="1624862094450" duration="9010000" />
       <workItem from="1624931050909" duration="4110000" />
       <workItem from="1624937064771" duration="2102000" />
-      <workItem from="1624947100105" duration="11539000" />
-    </task>
-    <task id="LOCAL-00013" summary="..">
-      <created>1608463401372</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1608463401372</updated>
+      <workItem from="1624947100105" duration="11640000" />
+      <workItem from="1625038616912" duration="1800000" />
+      <workItem from="1625103903426" duration="151000" />
+      <workItem from="1625104815524" duration="3819000" />
+      <workItem from="1625121481776" duration="5573000" />
+      <workItem from="1625129243754" duration="3044000" />
     </task>
     <task id="LOCAL-00014" summary="..">
       <created>1608640615879</created>
@@ -606,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624873826496</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="2021.6.29下午">
+      <created>1624961384928</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1624961384928</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +632,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.7 end Modal project" />
     <MESSAGE value="2021.5.7下午 start Pig Game" />
     <MESSAGE value="2021.5.8上午" />
     <MESSAGE value="2021.5.8下午 end the Pig Game" />
@@ -653,6 +656,7 @@
     <MESSAGE value="2021.6.24 End Section 10" />
     <MESSAGE value="2021.6.24下午 Start Section 11" />
     <MESSAGE value="2021.6.28下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.28下午" />
+    <MESSAGE value="2021.6.29下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.6.29下午" />
   </component>
 </project>
