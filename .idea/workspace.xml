@@ -22,14 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.6.29下午">
-      <change afterPath="$PROJECT_DIR$/Section 10/First-class and Higher-order functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/153 Chaining Methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 11/155 The Find method.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.1下午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 11/145  Create DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/145  Create DOM.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 11/Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/Challenge 2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice/Leetcode" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -265,14 +262,8 @@
       <workItem from="1625103903426" duration="151000" />
       <workItem from="1625104815524" duration="3819000" />
       <workItem from="1625121481776" duration="5573000" />
-      <workItem from="1625129243754" duration="3044000" />
-    </task>
-    <task id="LOCAL-00014" summary="..">
-      <created>1608640615879</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1608640615879</updated>
+      <workItem from="1625129243754" duration="3201000" />
+      <workItem from="1625215609354" duration="3586000" />
     </task>
     <task id="LOCAL-00015" summary="Template literal">
       <created>1611511138313</created>
@@ -610,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624961384928</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="2021.7.1下午">
+      <created>1625133888131</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1625133888132</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +630,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.7下午 start Pig Game" />
     <MESSAGE value="2021.5.8上午" />
     <MESSAGE value="2021.5.8下午 end the Pig Game" />
     <MESSAGE value="2021.5.8下午 Start Section 8" />
@@ -657,6 +654,11 @@
     <MESSAGE value="2021.6.24下午 Start Section 11" />
     <MESSAGE value="2021.6.28下午" />
     <MESSAGE value="2021.6.29下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.6.29下午" />
+    <MESSAGE value="2021.7.1下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.1下午" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
