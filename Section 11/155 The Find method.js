@@ -35,6 +35,15 @@ const firstWithdrawal = movements.find(mov=> mov<0);
 // console.log(firstWithdrawal);
 
 
-console.log(accounts);
-const account=accounts.find(acc=>acc.owner === 'Jessica Davis');
-console.log(account);
+// console.log(accounts);
+// const account=accounts.find(acc=>acc.owner === 'Jessica Davis');
+// console.log(account);
+
+
+//Equality
+console.log(movements.includes(-130));
+
+//Condition
+console.log(movements.some(mov=>mov===-130));
+const anyDeposits = movements.some(mov=>mov>5000);
+console.log(anyDeposits);
