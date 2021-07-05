@@ -62,9 +62,10 @@ const inputCloseUsername = document.querySelector('.form__input--user');
 const inputClosePin = document.querySelector('.form__input--pin');
 
 //Creat DOM
-const displayMovements = function (movements){
+const displayMovements = function (movements,sort=false){
     containerMovements.innerHTML = '';
-    movements.forEach(function (mov,i){
+    const movs = sort ? movements.slice().sort((a,b)=>a-b):movements;
+    movs.forEach(function (mov,i){
         const type = mov >0?'deposit':'withdrawal';
         const html = `
         <div class="movements__row">
@@ -75,12 +76,11 @@ const displayMovements = function (movements){
 
     })
 };
+
 const calcDisplayBalance = function (acc){
     acc.balance= acc.movements.reduce((acc,mov)=>acc+mov,0);
     labelBalance.textContent = `${acc.balance} €`;
 };
-
-
 
 const calcDisplaySummary = function (acc){
     const incomes = acc.movements.filter(mov=>mov>0).reduce((acc,mov)=>acc+mov,0);
@@ -90,8 +90,6 @@ const calcDisplaySummary = function (acc){
     const interest = acc.movements.filter(mov=>mov>0).map(deposits=>deposits*acc.interestRate/100).filter((int,i,arr)=>{return int >=1;}).reduce((acc,int)=>acc+int,0);
     labelSumInterest.textContent=`${interest}€`;
 };
-
-
 
 //Computing Usernames
 const createUsernames = function (accs){
@@ -129,6 +127,7 @@ btnLogin.addEventListener('click',function (e){
     //Update UI
     updateUI(currentAccount);
 });
+
 btnTransfer.addEventListener('click',function (e){
     e.preventDefault();
     const amount = Number(inputTransferAmount.value);
@@ -142,9 +141,19 @@ btnTransfer.addEventListener('click',function (e){
     //Update UI
     updateUI(currentAccount);
 });
+
 btnLoan.addEventListener('click',function (e){
     e.preventDefault();
+    const amount = Number(inputLoanAmount.value);
+    if (amount>0 && currentAccount.movements.some(mov=>mov>=amount*0.1)){
+        // Add movement
+        currentAccount.movements.push(amount);
+        // Update UI
+        updateUI(currentAccount);
+    }
+    inputLoanAmount.value='';
 })
+
 btnClose.addEventListener('click',function (e){
     e.preventDefault();
 
@@ -157,4 +166,16 @@ btnClose.addEventListener('click',function (e){
     inputCloseUsername.value=inputLoginPin.value='';
 })
 
+let sorted = false;
+btnSort.addEventListener('click',function (e){
+    e.preventDefault();
+    displayMovements(currentAccount.movements,!sorted);
+    sorted= !sorted;
+})
 
+
+
+labelBalance.addEventListener('click',function (){
+    const movementsUI = Array.from(document.querySelectorAll('.movements__value'),el=>Number(el.textContent.replace('€','')))
+    console.log(movementsUI);
+})

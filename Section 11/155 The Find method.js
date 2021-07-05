@@ -41,9 +41,52 @@ const firstWithdrawal = movements.find(mov=> mov<0);
 
 
 //Equality
-console.log(movements.includes(-130));
+// console.log(movements.includes(-130));
 
+
+//Some methods
 //Condition
-console.log(movements.some(mov=>mov===-130));
+// console.log(movements.some(mov=>mov===-130));
 const anyDeposits = movements.some(mov=>mov>5000);
-console.log(anyDeposits);
+// console.log(anyDeposits);
+
+
+//Every methods
+// console.log(movements.every(mov=>mov>0));
+
+//Separate callback
+const deposit = mov=> mov>0;
+// console.log(movements.some(deposit));
+// console.log(movements.every(deposit));
+// console.log(movements.filter(deposit));
+
+
+// Flat and map methods
+// const arr=[[1,2,3],[4,5,6],7,8];
+// console.log(arr.flat());
+//
+// const arrDeep =[[[1,2],3],[4,[5,6]],7,8];
+// console.log(arrDeep.flat(2));
+
+const accountMovements = accounts.map(acc=>acc.movements);
+// console.log(accountMovements);
+
+//
+const allMovements = accountMovements.flat();
+// console.log(allMovements);
+const overallBalance = allMovements.reduce((acc,mov)=>acc+mov,0);
+// console.log(overallBalance);
+const overallBl = accounts.flatMap(acc=>acc.movements).reduce((acc,mov)=>acc+mov,0);
+// console.log(overallBl);
+
+
+//return < 0, A,B(keep order)
+//return > 0, B,A(switch order)
+//Ascending
+movements.sort((a,b)=>{
+    if (a>b)
+        return 1;
+    if (b>a)
+        return -1;
+})
+console.log(movements);
