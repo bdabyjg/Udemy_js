@@ -89,4 +89,4 @@ movements.sort((a,b)=>{
     if (b>a)
         return -1;
 })
-console.log(movements);
+// console.log(movements);
