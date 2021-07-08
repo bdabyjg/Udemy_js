@@ -22,79 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.6 下午 End Section 11">
-      <change afterPath="$PROJECT_DIR$/Section 12/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/style.css" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.7 Start Section 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/127 Default Parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/127 Default Parameters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/128 Value &amp; Reference.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/128 Value &amp; Reference.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/130 Functions accepting callback functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/130 Functions accepting callback functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/131 Functions return functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/131 Functions return functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/132 The call and apply  Methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/132 The call and apply  Methods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/133 The bind method.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/133 The bind method.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/135 IIFE.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/135 IIFE.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/136 Closures.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/136 Closures.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/Challenge 1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/Challenge 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/First-class and Higher-order functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/First-class and Higher-order functions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 10 Functions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 11/name[0]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/.readme" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/.readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/DOM.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/DOM.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/Events.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/Events.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Guessing/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Guessing/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Modal/.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Modal/.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Modal/Keyboard Event.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Modal/Keyboard Event.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Modal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Modal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Modal/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Modal/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Modal/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Modal/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/dice-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/dice-6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7/Pig Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 7 Pig Games/Pig Game/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/89 An high-level overview of JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/89 An high-level overview of JavaScript.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/90 The JavaScript engine and runtime.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/90 The JavaScript engine and runtime.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/91 Execution Contexts and The Call Stack.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/91 Execution Contexts and The Call Stack.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/92 Scope and the scope Chain.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/92 Scope and the scope Chain.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/92 Scope.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/92 Scope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/95 Hoisting and TDZ.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/95 Hoisting and TDZ.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/97 The this keyword practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/97 The this keyword practice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/97 this keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/97 this keyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/98 Regular function vs arrow function.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/98 Regular function vs arrow function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/99 Primitives vs objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/99 Primitives vs objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 Behind the Scenes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/103 De-structuring Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/103 De-structuring Arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/103 Destructuring Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/103 Destructuring Arrays.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/104 De-structuring Objects.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/104 De-structuring Objects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/104 De-structuring ojbects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/104 De-structuring ojbects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/105 The spread operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/105 The spread operator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/106 Rest Pattern and  Parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/106 Rest Pattern and  Parameters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/107 Short circuiting &amp; 108 The nullish coalescing operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/107 Short circuiting &amp; 108 The nullish coalescing operator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/110 The for-of loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/110 The for-of loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/111 Looping Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/111 Looping Objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/115 Sets.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/115 Sets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/116 Maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/116 Maps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/120 Working with strings.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/120 Working with strings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/124 Strings Practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/124 Strings Practice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/Challenge 1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/Challenge 2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/Challenge 3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/Challenge 4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/Challenge 4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 9 Data Structures Operations/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 12/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,14 +276,9 @@
       <workItem from="1625623204375" duration="21000" />
       <workItem from="1625624752523" duration="2177000" />
       <workItem from="1625639794937" duration="3421000" />
-      <workItem from="1625658084279" duration="3668000" />
-    </task>
-    <task id="LOCAL-00019" summary="..">
-      <created>1615286835827</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1615286835827</updated>
+      <workItem from="1625658084279" duration="3796000" />
+      <workItem from="1625733212249" duration="4211000" />
+      <workItem from="1625742494711" duration="3236000" />
     </task>
     <task id="LOCAL-00020" summary="..">
       <created>1615351662185</created>
@@ -691,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625563559089</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2021.7.7 Start Section 12">
+      <created>1625662029498</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1625662029498</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,7 +645,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.12" />
     <MESSAGE value="2021.5.13" />
     <MESSAGE value="2021.5.17" />
     <MESSAGE value="2021.5.21" />
@@ -738,7 +669,8 @@
     <MESSAGE value="2021.7.3 下午" />
     <MESSAGE value="2021.7.5 下午" />
     <MESSAGE value="2021.7.6 下午 End Section 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.6 下午 End Section 11" />
+    <MESSAGE value="2021.7.7 Start Section 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.7 Start Section 12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
