@@ -22,9 +22,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.7 Start Section 12">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.8  End Section 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 12/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/141 Simple array methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/141 Simple array methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/142 forEach method.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/142 forEach method.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/145  Create DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/145  Create DOM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/147 Data Transformations.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/147 Data Transformations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/153 Chaining Methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/153 Chaining Methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/155 The Find method.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/155 The Find method.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/164 Array Practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/164 Array Practice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/Bankist-flowchart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/Bankist-flowchart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/Challenge 1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/Challenge 2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/Challenge 2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/Challenge 4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/Challenge 4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 11/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Section 11 Arrays/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +66,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Section 11/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Section 11/141 Simple array methods.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Section 11/script.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Section 11 Arrays/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Section 11 Arrays/141 Simple array methods.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Section 11 Arrays/script.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1goJeuD7zqqFBFIeaeP4udi9C4u" />
   <component name="ProjectLevelVcsManager">
@@ -278,14 +293,8 @@
       <workItem from="1625639794937" duration="3421000" />
       <workItem from="1625658084279" duration="3796000" />
       <workItem from="1625733212249" duration="4211000" />
-      <workItem from="1625742494711" duration="3236000" />
-    </task>
-    <task id="LOCAL-00020" summary="..">
-      <created>1615351662185</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1615351662186</updated>
+      <workItem from="1625742494711" duration="3626000" />
+      <workItem from="1625761204133" duration="310000" />
     </task>
     <task id="LOCAL-00021" summary="..">
       <created>1615544474445</created>
@@ -623,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625662029498</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="2021.7.8  End Section 12">
+      <created>1625746576008</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1625746576009</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +661,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.13" />
     <MESSAGE value="2021.5.17" />
     <MESSAGE value="2021.5.21" />
     <MESSAGE value="2021.5.22 End section 8" />
@@ -670,7 +685,8 @@
     <MESSAGE value="2021.7.5 下午" />
     <MESSAGE value="2021.7.6 下午 End Section 11" />
     <MESSAGE value="2021.7.7 Start Section 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.7 Start Section 12" />
+    <MESSAGE value="2021.7.8  End Section 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.8  End Section 12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
