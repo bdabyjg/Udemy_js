@@ -22,30 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.9 Change the folders name">
-      <change afterPath="$PROJECT_DIR$/Section 13/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/How the DOM really works.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/card-lazy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/card.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/digital-lazy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/digital.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/grow-lazy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/grow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/user-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/user-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/img/user-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 13/style.css" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.9  Start Section 13">
+      <change beforePath="$PROJECT_DIR$/.idea/Udemy_js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Udemy_js.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 13/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 13/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +40,7 @@
         <option value="JavaScript File" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -82,8 +64,9 @@
     <setting file="file://$PROJECT_DIR$/Section 11 Working with Arrays/141 Simple array methods.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Section 11 Working with Arrays/script.js" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="ProjectId" id="1goJeuD7zqqFBFIeaeP4udi9C4u" />
   <component name="ProjectLevelVcsManager">
@@ -102,10 +85,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.24095395" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -313,14 +297,21 @@
       <workItem from="1625761204133" duration="484000" />
       <workItem from="1625795093581" duration="46000" />
       <workItem from="1625795544713" duration="1094000" />
-      <workItem from="1625810925165" duration="9615000" />
-    </task>
-    <task id="LOCAL-00022" summary="..">
-      <created>1615625071036</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1615625071036</updated>
+      <workItem from="1625810925165" duration="10008000" />
+      <workItem from="1626073946303" duration="6697000" />
+      <workItem from="1626164858313" duration="5660000" />
+      <workItem from="1626226657623" duration="5545000" />
+      <workItem from="1626244165851" duration="5929000" />
+      <workItem from="1626332789014" duration="5384000" />
+      <workItem from="1626400398899" duration="141000" />
+      <workItem from="1626400554037" duration="36000" />
+      <workItem from="1626400674489" duration="192000" />
+      <workItem from="1626400877791" duration="5094000" />
+      <workItem from="1626415700137" duration="66000" />
+      <workItem from="1626415774395" duration="585000" />
+      <workItem from="1626416375120" duration="20000" />
+      <workItem from="1626416403710" duration="62000" />
+      <workItem from="1626416475714" duration="9896000" />
     </task>
     <task id="LOCAL-00023" summary="..">
       <created>1616061266816</created>
@@ -658,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625761629727</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="2021.7.9  Start Section 13">
+      <created>1625821166879</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1625821166879</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,7 +678,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.21" />
     <MESSAGE value="2021.5.22 End section 8" />
     <MESSAGE value="2021.5.22 Start Section 9" />
     <MESSAGE value="2021.5.24" />
@@ -705,7 +702,8 @@
     <MESSAGE value="2021.7.7 Start Section 12" />
     <MESSAGE value="2021.7.8  End Section 12" />
     <MESSAGE value="2021.7.9 Change the folders name" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.9 Change the folders name" />
+    <MESSAGE value="2021.7.9  Start Section 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.9  Start Section 13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
