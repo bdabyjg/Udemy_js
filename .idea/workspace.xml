@@ -22,11 +22,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.9  Start Section 13">
-      <change beforePath="$PROJECT_DIR$/.idea/Udemy_js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Udemy_js.iml" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.16">
+      <change afterPath="$PROJECT_DIR$/Section 14/206 Prototype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 14/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 13/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 13/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/How the DOM really works.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/card-lazy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/digital-lazy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/digital.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/grow-lazy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/grow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/user-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/user-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/img/user-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 13/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,15 +107,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 14" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.24095395" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\Udemy_js\Section 14" />
       <recent name="D:\Coding\Udemy_js\Section 13" />
       <recent name="D:\Coding\Udemy_js\Section 11" />
       <recent name="D:\Coding\Udemy_js\Section 9" />
@@ -311,14 +334,15 @@
       <workItem from="1626415774395" duration="585000" />
       <workItem from="1626416375120" duration="20000" />
       <workItem from="1626416403710" duration="62000" />
-      <workItem from="1626416475714" duration="9896000" />
-    </task>
-    <task id="LOCAL-00023" summary="..">
-      <created>1616061266816</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1616061266817</updated>
+      <workItem from="1626416475714" duration="10083000" />
+      <workItem from="1626502441620" duration="2111000" />
+      <workItem from="1626504737108" duration="16000" />
+      <workItem from="1626504777564" duration="1014000" />
+      <workItem from="1626506604171" duration="6429000" />
+      <workItem from="1626919748923" duration="13000" />
+      <workItem from="1627438496531" duration="326000" />
+      <workItem from="1627439057555" duration="3378000" />
+      <workItem from="1627452539241" duration="5388000" />
     </task>
     <task id="LOCAL-00024" summary="..">
       <created>1618221101581</created>
@@ -656,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625821166879</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="2021.7.16">
+      <created>1626427119096</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1626427119102</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,7 +709,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.22 End section 8" />
     <MESSAGE value="2021.5.22 Start Section 9" />
     <MESSAGE value="2021.5.24" />
     <MESSAGE value="2021.5.28" />
@@ -703,7 +733,8 @@
     <MESSAGE value="2021.7.8  End Section 12" />
     <MESSAGE value="2021.7.9 Change the folders name" />
     <MESSAGE value="2021.7.9  Start Section 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.9  Start Section 13" />
+    <MESSAGE value="2021.7.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.16" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
