@@ -22,33 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.16">
-      <change afterPath="$PROJECT_DIR$/Section 14/206 Prototype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 14/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 14/script.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.28 Start Section 14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/How the DOM really works.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/card-lazy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/card.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/digital-lazy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/digital.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/grow-lazy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/grow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/img-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/user-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/user-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/img/user-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 13/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 14/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 14/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +43,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,7 +86,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Section 14" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.24095395" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -342,14 +318,11 @@
       <workItem from="1626919748923" duration="13000" />
       <workItem from="1627438496531" duration="326000" />
       <workItem from="1627439057555" duration="3378000" />
-      <workItem from="1627452539241" duration="5388000" />
-    </task>
-    <task id="LOCAL-00024" summary="..">
-      <created>1618221101581</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1618221101581</updated>
+      <workItem from="1627452539241" duration="5559000" />
+      <workItem from="1627611029605" duration="40000" />
+      <workItem from="1627611080297" duration="5000" />
+      <workItem from="1627611311223" duration="2432000" />
+      <workItem from="1627627068517" duration="8916000" />
     </task>
     <task id="LOCAL-00025" summary="..">
       <created>1618221604041</created>
@@ -687,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626427119102</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="2021.7.28 Start Section 14">
+      <created>1627465225038</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1627465225038</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,7 +689,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.22 Start Section 9" />
     <MESSAGE value="2021.5.24" />
     <MESSAGE value="2021.5.28" />
     <MESSAGE value="2021.6.3" />
@@ -734,7 +713,8 @@
     <MESSAGE value="2021.7.9 Change the folders name" />
     <MESSAGE value="2021.7.9  Start Section 13" />
     <MESSAGE value="2021.7.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.16" />
+    <MESSAGE value="2021.7.28 Start Section 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.28 Start Section 14" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
