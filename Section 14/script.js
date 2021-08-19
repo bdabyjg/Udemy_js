@@ -79,11 +79,15 @@ class PersonCl{
     get fullName(){
         return this._fullName;
     }
+
+    static hey(){
+        console.log('Hey there!');
+    }
 };
 const jessica = new PersonCl('Jessica Davis',1996);
 // console.log(jessica);
-jessica.calcAge();
-console.log(jessica.age);
+// jessica.calcAge();
+// console.log(jessica.age);
 
 
 const account = {
@@ -98,4 +102,64 @@ const account = {
     }
 }
 account.latest = 50;
-console.log(account.movements);
+// console.log(account.movements);
+
+const PersonProto = {
+    calcAge(){
+        console.log(2037- this.birthYear);
+    },
+    init(firstName,birthYear){
+        this.firstName = firstName;
+        this.birthYear = birthYear;
+    }
+};
+
+const steven = Object.create(PersonProto);
+// console.log(steven);
+// console.log(steven.__proto__);
+const  sarah = Object.create(PersonProto);
+sarah.init('Sarah',1984);
+
+//使用ES6的class
+class CarCl{
+    constructor (make,speed){
+        this.make = make;
+        this.speed = speed;
+    };
+    accelerate(){
+        this.speed +=10;
+        console.log(`${this.make} is going at ${this.speed}km/h.`);
+    };
+    brake(){
+        this.speed -= 5;
+        console.log(`${this.make} is going at ${this.speed}km/h`);
+    };
+    get speedUS(){
+        return this.speed/1.6;
+    };
+    set speedUS(speed){
+        this.speed = speed*1.6;
+    }
+}
+
+const ford = new CarCl('Ford',120);
+
+
+//
+const Student = function (firstName,birthYear,course){
+    // this.firstName = firstName;
+    // this.birthYear = birthYear;
+    Person.call(this,firstName,birthYear);
+    this.course = course;
+};
+
+Student.prototype = Object.create(Person.prototype)
+
+Student.prototype.introduce = function (){
+    console.log(`My name is ${this.firstName} and I study ${this.course}.`);
+}
+const mike = new Student('Mike',2000,'Computer Science');
+console.log(mike);
+mike.introduce();
+mike.calcAge();
+console.log(mike.__proto__);

@@ -22,8 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.28 Start Section 14">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.7.30">
+      <change afterPath="$PROJECT_DIR$/Section 14/217 ES6 Classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 14/Coding Challenge 3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 14/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 14/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 14/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 14/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,14 +325,12 @@
       <workItem from="1627611029605" duration="40000" />
       <workItem from="1627611080297" duration="5000" />
       <workItem from="1627611311223" duration="2432000" />
-      <workItem from="1627627068517" duration="8916000" />
-    </task>
-    <task id="LOCAL-00025" summary="..">
-      <created>1618221604041</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1618221604041</updated>
+      <workItem from="1627627068517" duration="9541000" />
+      <workItem from="1627978984263" duration="155000" />
+      <workItem from="1627979150468" duration="738000" />
+      <workItem from="1627980720105" duration="3128000" />
+      <workItem from="1629344394606" duration="992000" />
+      <workItem from="1629353889885" duration="8665000" />
     </task>
     <task id="LOCAL-00026" summary="..">
       <created>1618653201732</created>
@@ -667,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627465225038</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2021.7.30">
+      <created>1627638988424</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1627638988424</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,7 +697,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.5.24" />
     <MESSAGE value="2021.5.28" />
     <MESSAGE value="2021.6.3" />
     <MESSAGE value="2021.6.4" />
@@ -714,7 +721,8 @@
     <MESSAGE value="2021.7.9  Start Section 13" />
     <MESSAGE value="2021.7.16" />
     <MESSAGE value="2021.7.28 Start Section 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.7.28 Start Section 14" />
+    <MESSAGE value="2021.7.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.7.30" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
