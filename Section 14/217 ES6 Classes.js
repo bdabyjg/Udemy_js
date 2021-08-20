@@ -43,4 +43,57 @@ class studentCl extends PersonCl{
         console.log(`I'm ${2034-this.birthYear}`);
     }
 };
-const martha = new Studentcl('Martha Jone',2000,'Maths')
+const martha = new studentCl('Martha Jone',2000,'Maths')
+
+
+///
+
+const PersonProto = {
+    calcAge(){
+        console.log(2037-this.birthYear);
+    },
+    init(firstName,birthYear){
+        this.firstName = firstName;
+        this.birthYear = birthYear
+    }
+}
+
+const StudentProto = Object.create(PersonProto);
+StudentProto.init = function (firstName,birthYear,course){
+    PersonProto.init.call(this,firstName,birthYear);
+    this.course = course;
+}
+
+///
+
+class Account{
+    constructor(owner,currency,pin){
+        this.owner = owner;
+        this.currency = currency;
+        this.pin = pin;
+        //protected property
+        this._movements = [];
+        this.locale = navigator.language;
+        console.log(`Thanks for opening an account, ${owner}.`);
+    }
+
+    deposit(val){
+        this._movements.push(val)
+    }
+    withdraw(val){
+        this.deposit(-val)
+    }
+
+    approveLoan(val){
+
+    }
+    requestLoan(val){
+        if(this.approveLoan(val)){
+            this.deposit(val);
+            console.log(`Loan approved `);
+        }
+    }
+}
+const acc1 = new Account('Candela','USD',2333);
+console.log(acc1);
+
