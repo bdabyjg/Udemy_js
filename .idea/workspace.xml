@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.21 End Section 14">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.23 Start Section 15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -333,14 +331,7 @@
       <workItem from="1629538980721" duration="188000" />
       <workItem from="1629699080362" duration="36000" />
       <workItem from="1629699153622" duration="671000" />
-      <workItem from="1629699881103" duration="4265000" />
-    </task>
-    <task id="LOCAL-00030" summary="2021427下午 start Section 5">
-      <created>1619513005568</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1619513005568</updated>
+      <workItem from="1629699881103" duration="4589000" />
     </task>
     <task id="LOCAL-00031" summary="2021429下午">
       <created>1619687473734</created>
@@ -678,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629699178465</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="2021.8.23 Start Section 15">
+      <created>1629707206769</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1629707206769</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,7 +698,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.6.5" />
     <MESSAGE value="2021.6.6 Challenge 2" />
     <MESSAGE value="2021.6.8" />
     <MESSAGE value="2021.6.9" />
@@ -725,7 +722,8 @@
     <MESSAGE value="2021.8.19" />
     <MESSAGE value="2021.8.20" />
     <MESSAGE value="2021.8.21 End Section 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.8.21 End Section 14" />
+    <MESSAGE value="2021.8.23 Start Section 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.8.23 Start Section 15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
