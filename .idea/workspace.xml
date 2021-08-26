@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.24">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 15/script.js" afterDir="false" />
     </list>
@@ -341,13 +341,8 @@
       <workItem from="1629785477117" duration="10859000" />
       <workItem from="1629858357640" duration="962000" />
       <workItem from="1629871954953" duration="8508000" />
-    </task>
-    <task id="LOCAL-00033" summary="202155下午">
-      <created>1620199738643</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1620199738643</updated>
+      <workItem from="1629884853564" duration="27000" />
+      <workItem from="1629942906633" duration="4254000" />
     </task>
     <task id="LOCAL-00034" summary="2021.5.6 guess number game done.">
       <created>1620288946412</created>
@@ -685,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629797663737</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="2021.8.25">
+      <created>1629884864994</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1629884864994</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,7 +709,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.6.8" />
     <MESSAGE value="2021.6.9" />
     <MESSAGE value="2021.6.11 End Section 9" />
     <MESSAGE value="2021.6.17" />
@@ -732,7 +733,8 @@
     <MESSAGE value="2021.8.21 End Section 14" />
     <MESSAGE value="2021.8.23 Start Section 15" />
     <MESSAGE value="2021.8.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.8.24" />
+    <MESSAGE value="2021.8.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.8.25" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

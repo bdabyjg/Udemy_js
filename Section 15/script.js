@@ -23,18 +23,18 @@ class Workout{
 }
 
 class Running extends Workout{
+    type = 'running';
     constructor(coords,distance,duration,cadence){
         super(coords,distance,duration);
         this.cadence = cadence;
         this.calcPace();
-
-
     }
     calcPace(){
         this.pace = this.duration / this.distance;
     }
 }
 class Cycling extends Workout{
+    type = 'cycling';
     constructor(coords,distance,duration,elevationGain){
         super(coords,distance,duration);
         this.elevationGain = elevationGain;
@@ -46,15 +46,17 @@ class Cycling extends Workout{
     }
 }
 
-const run1 = new Running([20,-110],5.2,24,178);
-const cyc1 = new Cycling([20,-110],27,95,523);
-console.log(run1,cyc1);
+// const run1 = new Running([20,-110],5.2,24,178);
+// const cyc1 = new Cycling([20,-110],27,95,523);
+// console.log(run1,cyc1);
 
 
 //APPLICATION ARCHITECTURE
 class App{
     #map;
     #mapEvent;
+    #workouts = [];
+
     constructor() {
         this._getPosition();
         form.addEventListener('submit',this._newWorkout.bind(this));
@@ -92,44 +94,63 @@ class App{
         inputCadence.closest('.form__row').classList.toggle('form__row--hidden');
 
     }
-    _newWorkout(e){
+    _newWorkout(e) {
+        const validInputs = (...inputs) => inputs.every(inp => Number.isFinite(inp));
+        const allPositive = (...inputs) => inputs.every(inp => inp > 0);
         e.preventDefault();
         //Steps:
         // 1 Get data from form
         const type = inputType.value;
         const distance = +inputDistance.value;
         const duration = +inputDuration.value;
-        // 2 Check if data is valid
+        const {lat, lng} = this.#mapEvent.latlng;
+        let workout;
         // 3 If workout running, create running object
-        if (type === 'running'){
+        if (type === 'running') {
             const cadence = +inputCadence.value;
-            if (!Number.isFinite(distance)) return alert('Inputs have to positive numbers!')
-
+            // 2 Check if data is valid
+            // if (!Number.isFinite(distance)||!Number.isFinite(duration)||!Number.isFinite(cadence))
+            if (!validInputs(distance, duration, cadence) || !allPositive(distance, duration, cadence))
+                return alert('Inputs have to positive numbers!');
+            workout = new Running([lat, lng], distance, duration, cadence);
+        }
         // 4 If workout cycling, create cycling object
-        if (type === 'cycling'){
-            const cadence = +inputElevation.value;
+        if (type === 'cycling') {
+            const elevation = +inputElevation.value;
+            console.log(elevation);
+            if (!validInputs(distance, duration, elevation) || !allPositive(distance, duration)) return alert('Inputs have to positive numbers!');
+            workout = new Cycling([lat, lng], distance, duration, elevation);
+
         }
         // 5 Add new object to workout array
+        this.#workouts.push(workout);
+        console.log(workout);
+
         // 6 Render workout on map as marker
-        const { lat,lng }=this.#mapEvent.latlng;
-        L.marker([lat,lng]).addTo(this.#map).bindPopup(L.popup({
-            maxWidth:250,
-            minWidth:100,
-            autoClose:false,
-            closeOnClick:false,
-            className:'running-popup'
-        })).setPopupContent('Workout')
-            .openPopup();
-        // 7 Render workout on list
-        //8 Hide form + Clear input fields;
+        this.renderWorkoutMarker(workout);
+
+        // Hide from + clear input fields
         inputDistance.value = inputDuration.value = inputCadence.value ='';
-
-
     }
-}
+
+
+
+    renderWorkoutMarker(workout){
+            L.marker(workout.coords).addTo(this.#map).bindPopup(L.popup({
+                maxWidth:250,
+                minWidth:100,
+                autoClose:false,
+                closeOnClick:false,
+                className:`${workout.type}-popup`
+            })).setPopupContent('workout')
+                .openPopup();
+            // 7 Render workout on list
+            //8 Hide form + Clear input fields;
+        }
+
 }
 
-// const app = new App();
+const app = new App();
 
 
 //调用地理位置api:navigator.geolocation
