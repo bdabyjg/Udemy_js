@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.30 End Section 15">
+      <change afterPath="$PROJECT_DIR$/Section 16/243 Asynchronous JavaScript, AJAX and APIs.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 15/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,6 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Section 15/script.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Section 15/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Section 11 Working with Arrays/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Section 11 Working with Arrays/141 Simple array methods.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Section 11 Working with Arrays/script.js" root0="FORCE_HIGHLIGHTING" />
@@ -88,7 +86,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetcodeExercises" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.24095395" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -348,13 +346,10 @@
       <workItem from="1630029029664" duration="3864000" />
       <workItem from="1630044652555" duration="9344000" />
       <workItem from="1630311417689" duration="5200000" />
-    </task>
-    <task id="LOCAL-00037" summary="2021.5.7下午 start Pig Game">
-      <created>1620379140773</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1620379140773</updated>
+      <workItem from="1630317495289" duration="65000" />
+      <workItem from="1630374256260" duration="787000" />
+      <workItem from="1630391215603" duration="1061000" />
+      <workItem from="1630395951994" duration="3791000" />
     </task>
     <task id="LOCAL-00038" summary="2021.5.8上午">
       <created>1620445663048</created>
@@ -692,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630057556726</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="2021.8.30 End Section 15">
+      <created>1630317504035</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1630317504036</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,7 +716,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.6.24 End Section 10" />
     <MESSAGE value="2021.6.24下午 Start Section 11" />
     <MESSAGE value="2021.6.28下午" />
     <MESSAGE value="2021.6.29下午" />
@@ -739,7 +740,8 @@
     <MESSAGE value="2021.8.26上午" />
     <MESSAGE value="2021.8.26 下午" />
     <MESSAGE value="2021.8.27 下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.8.27 下午" />
+    <MESSAGE value="2021.8.30 End Section 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.8.30 End Section 15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

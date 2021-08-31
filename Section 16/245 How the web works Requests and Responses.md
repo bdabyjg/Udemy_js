@@ -1,0 +1,21 @@
+# 245 How the web works: Requests and Responses
+
+https://restcountries.eu/rest/v2/alpha/PT
+
+
+
+This domain name, "restcountries.eu" now is not the real address of the server that we're trying to access. It's really just a nice name that is easy for us to memorized. But what this means is that we need a way of kind of converting the domain name to the real address of the server. That happens through a so-called "DNS",. "DNS" stands for domain name server and domain name servers are a special kind of server. So they are basically like the phone books of the Internet.
+
+The first step happens when we access any Web server is that the browser makes a request to a DNS and this special server will then simply match the web address of the URL to the server's real IP address. This all happens through your Internet service provider, but the complete details don't really matter here. What you need to retain from this first part is that the domain is not the real address and that a DNS will convert the domain to the real IP address. Then after the real IP address has been sent back to the browser, we can finally call it. So this is how the real address looks like. It still has the protocol, but then comes the IP address. And also the port that we access on the server. And this port number is really is just to identify a specific service that's running on a server. You can think of it like a sub address. This port number has nothing to do with "/rest/v2" resource that we want to access. That resource will actually be sent over in the HTTP request. That actually wraps up the first step. So once we have the real IP address, a TCP socket connection is established between the browser and the server. So they are now finally connected. This connection is typically kept alive for the entire time that it takes to transfer all files of the websites or all data.
+
+Now, what are TCP and IP? Well, TCP is the transmission control protocol and IP is the Internet Protocol. And together they are communication protocols that define exactly how data travels across the web. They are basically the Internet's fundamental control system,because they are the ones who set the rules about how data moves on the Internet.
+
+
+
+Finally it's time to make our request. The request we make is an HTTP request where HTTP stands for Hypertext Transfer Protocol. So after TCP/IP, HTTP is another communication protocol. A communication protocol is simply a system of rules that allows two or more parties to communicate. Now in the case of HTTP, it's just a protocol that allows client and web servers to communicate. That works by sending requests and response messages from client to server and back. A request message will look something like this. The beginning of the message is the most important part called the start line. 
+
+`GET /rest/v2/alpha/PT HTTP/1.1`
+
+This one contains the HTTP method that is used in the request, then the request target and the HTTP version. So about the HTTP methods, there are many available, but the most important ones are: GET, for simply requesting data; POST, for sending data; and PUT and PATCH to basically modify data. So you'll se that an HTTP request to a server is not only for getting data, but we can also send data. Now about the request target. This is where the server is told that we want to access the "rest/v2/alpha" resource. So we had this in the URL before and now it is simply sent as the target in the HTTP request. And so then the server can figure out what to do with it. If this target was empty then we would be accessing the website's route, which is just "restcountries.eu" in this example. The next part of the request are the request headers,which is just some information that we sent about the request itself. There are tons of standard different headers, like what browser is used to make the request, at what time , user's language and many many more. In the case we're sending data to the server. There will also be a request body, and that body will contain the data that we're sending for example coming from an HTML form.
+
+HTTPS is encrypted using TLS or SSL, which are yet some are protocols. Now the request is formed and now it hits the server which will the be working on it until it has our data or web page ready to send back.
