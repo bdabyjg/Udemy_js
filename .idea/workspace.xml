@@ -22,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.30 End Section 15">
-      <change afterPath="$PROJECT_DIR$/Section 16/243 Asynchronous JavaScript, AJAX and APIs.md" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.8.31 Start Section 16">
+      <change afterPath="$PROJECT_DIR$/Section 16/247 Promise and Fetch API.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 16/245 How the web works Requests and Responses.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/245 How the web works Requests and Responses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 16/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,14 +351,9 @@
       <workItem from="1630317495289" duration="65000" />
       <workItem from="1630374256260" duration="787000" />
       <workItem from="1630391215603" duration="1061000" />
-      <workItem from="1630395951994" duration="3791000" />
-    </task>
-    <task id="LOCAL-00038" summary="2021.5.8上午">
-      <created>1620445663048</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1620445663049</updated>
+      <workItem from="1630395951994" duration="4705000" />
+      <workItem from="1630461555416" duration="596000" />
+      <workItem from="1630476521103" duration="6154000" />
     </task>
     <task id="LOCAL-00039" summary="2021.5.8下午 end the Pig Game">
       <created>1620458459406</created>
@@ -694,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630317504036</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="2021.8.31 Start Section 16">
+      <created>1630403185055</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403185055</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,7 +720,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.6.24下午 Start Section 11" />
     <MESSAGE value="2021.6.28下午" />
     <MESSAGE value="2021.6.29下午" />
     <MESSAGE value="2021.7.1下午" />
@@ -741,7 +744,8 @@
     <MESSAGE value="2021.8.26 下午" />
     <MESSAGE value="2021.8.27 下午" />
     <MESSAGE value="2021.8.30 End Section 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.8.30 End Section 15" />
+    <MESSAGE value="2021.8.31 Start Section 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.8.31 Start Section 16" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
