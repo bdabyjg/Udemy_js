@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.1 247 Promises">
-      <change afterPath="$PROJECT_DIR$/Section 16/247 Promises and the fetch API.png" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.2 250 Handling rejected promises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 16/247 Promise and Fetch API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/247 Promise and Fetch API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section 16/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\Coding\Udemy_js" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.24095395" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -364,14 +362,10 @@
       <workItem from="1630490936186" duration="41000" />
       <workItem from="1630549596689" duration="3235000" />
       <workItem from="1630563309763" duration="2124000" />
-      <workItem from="1630567193131" duration="1245000" />
-    </task>
-    <task id="LOCAL-00040" summary="2021.5.8下午 Start Section 8">
-      <created>1620466771058</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1620466771058</updated>
+      <workItem from="1630567193131" duration="1537000" />
+      <workItem from="1630572361746" duration="6000" />
+      <workItem from="1630635753402" duration="4140000" />
+      <workItem from="1630650088720" duration="8002000" />
     </task>
     <task id="LOCAL-00041" summary="2021.5.10 90 markdown">
       <created>1620636629698</created>
@@ -709,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630490963026</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="2021.9.2 250 Handling rejected promises">
+      <created>1630568844911</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1630568844911</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -731,7 +732,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.6.29下午" />
     <MESSAGE value="2021.7.1下午" />
     <MESSAGE value="2021.7.2 下午" />
     <MESSAGE value="2021.7.3 下午" />
@@ -756,7 +756,8 @@
     <MESSAGE value="2021.8.30 End Section 15" />
     <MESSAGE value="2021.8.31 Start Section 16" />
     <MESSAGE value="2021.9.1 247 Promises" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.9.1 247 Promises" />
+    <MESSAGE value="2021.9.2 250 Handling rejected promises" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.9.2 250 Handling rejected promises" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
