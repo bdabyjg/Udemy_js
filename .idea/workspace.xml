@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.2 250 Handling rejected promises">
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.2 251 Throwing Errors Manually">
+      <change afterPath="$PROJECT_DIR$/Section 16/Challenge 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 16/247 Promise and Fetch API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/247 Promise and Fetch API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 16/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,14 +365,8 @@
       <workItem from="1630567193131" duration="1537000" />
       <workItem from="1630572361746" duration="6000" />
       <workItem from="1630635753402" duration="4140000" />
-      <workItem from="1630650088720" duration="8002000" />
-    </task>
-    <task id="LOCAL-00041" summary="2021.5.10 90 markdown">
-      <created>1620636629698</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1620636629698</updated>
+      <workItem from="1630650088720" duration="8241000" />
+      <workItem from="1630740972219" duration="1609000" />
     </task>
     <task id="LOCAL-00042" summary="2021.5.12">
       <created>1620813811769</created>
@@ -710,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630568844911</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="2021.9.2 251 Throwing Errors Manually">
+      <created>1630662160446</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1630662160446</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -732,7 +733,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.7.1下午" />
     <MESSAGE value="2021.7.2 下午" />
     <MESSAGE value="2021.7.3 下午" />
     <MESSAGE value="2021.7.5 下午" />
@@ -757,7 +757,8 @@
     <MESSAGE value="2021.8.31 Start Section 16" />
     <MESSAGE value="2021.9.1 247 Promises" />
     <MESSAGE value="2021.9.2 250 Handling rejected promises" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.9.2 250 Handling rejected promises" />
+    <MESSAGE value="2021.9.2 251 Throwing Errors Manually" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.9.2 251 Throwing Errors Manually" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
