@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.2 251 Throwing Errors Manually">
-      <change afterPath="$PROJECT_DIR$/Section 16/Challenge 1.js" afterDir="false" />
+    <list default="true" id="c539f730-3cc8-4da6-939a-ad09514aaf0d" name="Default Changelist" comment="2021.9.4 Challenge 1 unfinished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 16/Challenge 1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section 16/Challenge 1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,14 +365,8 @@
       <workItem from="1630572361746" duration="6000" />
       <workItem from="1630635753402" duration="4140000" />
       <workItem from="1630650088720" duration="8241000" />
-      <workItem from="1630740972219" duration="1609000" />
-    </task>
-    <task id="LOCAL-00042" summary="2021.5.12">
-      <created>1620813811769</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1620813811769</updated>
+      <workItem from="1630740972219" duration="2475000" />
+      <workItem from="1630909174554" duration="5602000" />
     </task>
     <task id="LOCAL-00043" summary="2021.5.13">
       <created>1620901310160</created>
@@ -711,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630662160446</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="2021.9.4 Challenge 1 unfinished">
+      <created>1630744000746</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1630744000746</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -733,7 +733,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021.7.2 下午" />
     <MESSAGE value="2021.7.3 下午" />
     <MESSAGE value="2021.7.5 下午" />
     <MESSAGE value="2021.7.6 下午 End Section 11" />
@@ -758,7 +757,8 @@
     <MESSAGE value="2021.9.1 247 Promises" />
     <MESSAGE value="2021.9.2 250 Handling rejected promises" />
     <MESSAGE value="2021.9.2 251 Throwing Errors Manually" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.9.2 251 Throwing Errors Manually" />
+    <MESSAGE value="2021.9.4 Challenge 1 unfinished" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.9.4 Challenge 1 unfinished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
